@@ -5,7 +5,7 @@ title: This blog is about my startup journey
 
 Hi, my name is <a href="http://www.dillonforrest.com/" target="_blank">Dillon</a>.  This is my blog detailing the ups and downs of my first startup attempt.
 
-In October 2014, I quit my job.  I decided to start a company.  I decided to start a blog for other entrepreneurs, whether entrepreneurship is in their past, present, or future.
+In October 2014, I quit my job to start a company.  I decided to also start a blog for other entrepreneurs, whether entrepreneurship is in their past, present, or future.
 
 I want to inform my readers.  I want to inspire my readers.  I want to entertain my readers.
 
