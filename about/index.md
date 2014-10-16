@@ -21,7 +21,7 @@ But till then, I start from zero.
       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email address" required style="margin-bottom: 15px; max-width: 300px; border-radius: 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px 4px 4px;">
       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;"><input type="text" name="b_b4e508f96614c768076fe0be7_2f37c405e7" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Send me weekly startup stories!" name="subscribe" id="mc-embedded-subscribe" class="button" style="border-radius: 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px 4px 4px;"></div>
+    <div class="clear"><input type="submit" value="Send me weekly startup stories!" name="subscribe" id="mc-embedded-subscribe" class="button" style="background: #eee; border-radius: 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px 4px 4px;"></div>
     </div>
   </form>
 </div>
