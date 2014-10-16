@@ -3,18 +3,14 @@ layout: page
 title: This blog is about my startup journey
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hi, my name is [Dillon](http://www.dillonforrest.com/).  This is my blog detailing the ups and downs of my first startup attempt.
 
-## So Simple Theme is all about:
+In October 2014, I quit my job.  I decided to start a company.  I decided to start a blog for other entrepreneurs, whether entrepreneurship is in their past, present, or future.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+I want to inform my readers.  I want to inspire my readers.  I want to entertain my readers.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+As a new entrepreneur, my first goal is to find a problem worth solving, one which I can solve myself.  Some Lean Startup followers call this problem/solution fit.  If I work hard, work smart, and get lucky, the next goal will be finding product/market fit.  And if things continue to work out, the following goal will be scaling.
 
-[^1]: Example: *domain.com/category-name/post-title*
+But till then, I start from zero.
+
+From the "aww yeahh" moments to the "ohh SHITT" moments, I'm sharing everything on my journey through problem/solution fit, to product/market fit, to scaling.  I'm going to learn a lot.  So will you.
