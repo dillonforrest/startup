@@ -3,14 +3,17 @@
 title: Starting a company is hard
 locale: en_US
 description: Join me as I figure it out, step by step, the hard way
-logo: site-logo.png
+logo:
 search: true
-url: http://www.dillonforrest.com/startup/
+url:
+
+# copied this from dan goldin
+production_url: http://www.dillonforrest.com/startup/
 
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:   :title/
 markdown:    kramdown
 highlighter: pygments
 sass:
