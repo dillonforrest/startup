@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Dillon Forrest
-  avatar: frantic-raw
+  avatar: frantic-raw.jpg
   email: dillon@puzzlelabs.io
   disqus-shortname:
   twitter: dillonforrest
