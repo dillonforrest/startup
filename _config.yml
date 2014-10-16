@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Dillon starts a company
+title: Starting a company is hard
 locale: en_US
-description: Dillon shares his experiences attempting to start a company.
+description: Join me as I figure it out, step by step, the hard way
 logo: site-logo.png
 search: true
 url: http://www.dillonforrest.com/startup/
