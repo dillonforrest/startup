@@ -3,7 +3,7 @@ layout: page
 title: This blog is about my startup journey
 ---
 
-Hi, my name is [Dillon](http://www.dillonforrest.com/).  This is my blog detailing the ups and downs of my first startup attempt.
+Hi, my name is <a href="http://www.dillonforrest.com/" target="_blank">Dillon</a>.  This is my blog detailing the ups and downs of my first startup attempt.
 
 In October 2014, I quit my job.  I decided to start a company.  I decided to start a blog for other entrepreneurs, whether entrepreneurship is in their past, present, or future.
 
