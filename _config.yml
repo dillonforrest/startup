@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Dillon starts a company
 locale: en_US
-description: Describe your website here.
+description: Dillon shares his experiences attempting to start a company.
 logo: site-logo.png
 search: true
 url: http://www.dillonforrest.com/startup/
@@ -10,7 +10,7 @@ url: http://www.dillonforrest.com/startup/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -32,16 +32,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Dillon Forrest
+  avatar:
+  email:
   disqus-shortname:
-  twitter: #username
+  twitter: dillonforrest
   facebook: #username
-  github: #username
+  github: dillonforrest
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: dillonforrest
+  instagram: dillonforrest
   flickr: #username
   tumblr: #username
   google:
