@@ -20,12 +20,7 @@
       </header>
       <div class="entry-content">
         {{ content }}
-
-				{% if page.can-subscribe %}
-
-				{% include subscribe-form.html %}
-
-				{% endif %}
+				{% if page.can-subscribe %} {% include subscribe-form.html %} {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
