@@ -3,6 +3,7 @@ layout: post
 share: true
 comments: true
 can-subscribe: true
+title: I want to start a company
 ---
 
 Last Friday was my last day as an employed software developer.  I left my job to work full-time on my first startup attempt.
