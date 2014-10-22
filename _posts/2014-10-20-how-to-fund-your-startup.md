@@ -16,7 +16,7 @@ The last way is bootstrapping.  Bootstrapping means funding your startup with yo
 
 Although I present these three ways together, they're not at all equal.
 
-According to Brian Wang during an episode of [Founders Gambit](http://www.foundersgambit.com/), a startup is statistically unlikely to successfully raise money from investors [(source)](http://youtu.be/s6Go-50La5Q?t=32m20s).  Both venture capital and loans will involve convincing others to give you money.  And you might not even succeed.
+According to Brian Wang during an episode of <a href="http://www.foundersgambit.com/" target="_blank">Founders Gambit</a>, a startup is statistically unlikely to successfully raise money from investors <a href="http://youtu.be/s6Go-50La5Q?t=32m20s" target="_blank">(source)</a>.  Both venture capital and loans will involve convincing others to give you money.  And you might not even succeed.
 
 ## Why I'm choosing to bootstrap
 
