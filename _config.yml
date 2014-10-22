@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Starting a company is hard
+title: "Dillon's Startup Journey"
 locale: en_US
-description: Join me as I figure it out, step by step, the hard way
+description: "Startup stories by Dillon, posted every Monday, Wednesday, and Friday!"
 logo:
 search: true
 url: http://www.dillonforrest.com/startup
