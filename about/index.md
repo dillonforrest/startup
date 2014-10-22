@@ -1,10 +1,10 @@
 ---
 layout: page
-title: This blog is about my startup journey
+title: "I'm sharing my startup experiences and lessons"
 can-subscribe: true
 ---
 
-Hi, my name is <a href="http://www.dillonforrest.com/" target="_blank">Dillon</a>.  This is my blog detailing the ups and downs of my first startup attempt.
+Hi, my name is <a href="http://www.dillonforrest.com/" target="_blank">Dillon</a>.  This is my blog detailing the ups and downs of my first startup attempt, as well as everything I learn along the way.
 
 In October 2014, I quit my job to start a company.  I decided to also start a blog for other entrepreneurs, whether entrepreneurship is in their past, present, or future.
 
