@@ -8,7 +8,7 @@ title: Saving money on food
 
 I have no paycheck.  Therefore, I need to minimize my spending.  No more new clothes.  No traveling.  No crazy parties.  I have to keep my personal expenses to the bare essentials: rent and food.
 
-Rent is fixed.  It's the same amount every month.  My utilities might very a little month to month, but not much.
+Rent is fixed.  It's the same amount every month.  My utilities might vary a little month to month, but not much.
 
 Food is different.  In the year before taking the plunge and starting up, I cooked food myself maybe five times max.  I ate out the vast majority of the time.
 
@@ -24,13 +24,13 @@ But I'm a fatty.  I usually got either extra chicken or guacamole.  That'd be ma
 
 The first time I went to Chipotle after leaving my last job, I realized I had to abandon my typical burrito bowl order.
 
-My typical order was rice and double meat. I always asked for no beans.  I preferred paying extra for double meat over getting beans for free.  And if I didn't get double meat, I'd get guacamole.  If I ever didn't order double meat or guac, it was because I wasn't very hungry.  But I'm a big boy.  I'm almost always hungry.
+My typical order was rice and double meat. I always asked for no beans.  I preferred paying extra for double meat over getting beans for free.  And if I didn't get double meat, I'd get guacamole.  If I ever didn't order double meat or guac, it was because I wasn't very hungry.  But I'm a big boy.  I'm almost always hungry.  I almost always ordered double meat or guac.
 
 The typical Chipotle burrito bowl meal: approximately $12.
 
 My new order was very different.  Extra rice.  Extra beans, not no beans like before.  Yes to the meat, but only a single serving.  Extra vegetables and cheese.  But no guacamole.
 
-The new Chipotle burrito bowl meal: $4.50, because getting extra everything except meat makes a burrito bowl so large that it's two meals.
+The new Chipotle burrito bowl meal: $4.50, because getting extra everything except meat makes a $9 burrito bowl so large that it's two meals.
 
 I didn't feel very classy asking for extra everything except for meat.  It made me sad actually.  I was a loyal Chipotle customer consistently ordering either double meat or guacamole for five years.  But I need a different lifestyle now.  New lifestyle means new habits.
 
@@ -54,7 +54,7 @@ So, I'm trying an experiment.  The goal is to enjoy cooking and have it become a
 
 I'm testing a few hypotheses concurrently.  One, if my primary ingredients are foods that I love, I am more likely to enjoy cooking.  Two, if I buy cheap cooking tools which I think are cool, I'll enjoy the cooking process more.  Three, if I focus on perfecting a few dishes at a time, I'll steadily improve my cooking ability and expand my repertoire, and I'll enjoy cooking more in the long-run.
 
-To test the first hypothesis, I'll stick with simple tasty ingredients.  Bacon and eggs.  I will make lots of bacon and lots of eggs, oftentimes in the same meal, but oftentimes in separate meals too.
+To test the first hypothesis, I'll stick with simple recipes that I'll enjoy.  This means not making my food too bland for the sake of health.  I should be happy adding extra butter and bacon into whatever I'm cooking if I'll enjoy it more.
 
 To test the second, I bought a cast iron skillet.  The ridiculous weight of a cast iron skillet always seemed really bad-ass to me.  Things that seem bad-ass just make me happy.  It might sound silly, but I genuinely believe a cast iron skillet could be an important move because I think it's so outrageous for an amateur cook.
 
