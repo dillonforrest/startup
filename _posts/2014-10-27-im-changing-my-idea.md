@@ -16,13 +16,13 @@ Startup people frequently advocate creating products to solve your own problems.
 
 Scratching your own itch has several advantages.
 
-One, you already know there's at least some sort of market for your idea.  You yourself are at least one person who would have liked this product to exist.
+One, you already know there's at least some sort of market for your idea.  The market size is at least one: yourself.
 
-Two, you are more atuned to your customers.  You have shared your customers' pain points.
+Two, you are more atuned to your customers.  You have shared your customers' pain points.  You are your own customer.  This is a huge advantage, since the startup founder's primary job should be to understand the startup's customers.
 
 Three, you're more likely to be passionate about this problem.  Startups are an arduous process.  Passion fuels you through the slog.
 
-I'm certain not all companies are started by entrepreneurs scratching their own itches.  In fact, I'd expect that most founders create companies not because they're scratching their own itch, but despite not scratching their own itch.  In the end, you're stacking the cards more in your favor if you build a company for people like yourself.
+I'm certain not all companies are started by entrepreneurs scratching their own itches.  In fact, I'd expect that most founders create companies not because they're scratching their own itch, but despite not scratching their own itch.  In the end, you're stacking the cards more in your favor if you build a company which scratches your own itch.
 
 ## Pursuing multiple ideas
 
@@ -36,7 +36,7 @@ Although the goal is ultimately to create a product business, I still have no ca
 
 Immediately after changing ideas from a vague one to a specific one, I realized a great benefit.  My plans suddenly were much more obvious.
 
-Planning difficulty is expensive.  I'm incentivized to keep moving forward every day.  Each day I live without revenue is another day of expenses down the drain.  If planning is difficult, then each day is spent less productively.  If planning is easy, then it's much easier to realize revenues.
+Difficulty in planning is expensive.  I'm incentivized to keep moving forward every day.  Each day I live without revenue is another day of expenses down the drain.  If planning is difficult, then each day is spent less productively.  If planning is easy, then it's much easier to move myself in a direction to eventually realize revenues.
 
 Smaller ideas means specific planning, which means more money sooner.
 
@@ -44,10 +44,10 @@ Smaller ideas means specific planning, which means more money sooner.
 
 The startup community is full of diverse and conflicting opinions, but one of the most prevalent and agreed-upon opinions is that having a cofounder (or two) is good.
 
-My goal is to start up by myself, without a cofounder or any employees.  This is mostly due to my nature.  I just enjoy working by myself and, being employed at companies with coworkers for so long, have missed working alone.  A second reason is that I want to be as flexible as possible in the beginning.
+I said "fuck it" and started up solo.  My goal is to work by myself, without a cofounder or any employees.  This is mostly due to my nature.  I just enjoy working by myself and, being employed at companies with coworkers for so long, have missed working alone.  A second reason is that I want to be as flexible as possible in the beginning.
 
 The downside of having a cofounder is that you still need to have at least one person agree with you before making drastic changes.
 
-I could change my idea without any warning.  I'm a solo entrepreneur.  I can do things like this every hour of every day.  If I had a cofounder, the process for drastic changes is automatically an order of magnitude slower.
+I can change my idea without any warning.  I'm a solo entrepreneur.  I can do things like this every hour of every day.  If I had a cofounder, the process for drastic changes is automatically an order of magnitude slower.
 
 I like the idea of a cofounder for anything but a super early stage venture like my own.  If I have market validation for an idea, then a cofounder makes sense.  Till then, I'd prefer to be solo.
