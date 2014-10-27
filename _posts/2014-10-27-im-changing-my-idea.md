@@ -12,7 +12,7 @@ So, I'm changing my idea.  Rather than helping non-technical founders, I will tr
 
 ## Scratching your own itch
 
-Startup people frequently advocate creating products to solve your own problems.  They sometimes call it "scratching your own itch".
+Startup people frequently advocate creating products to solve your own problems.  They sometimes call it "scratching your own itch".  My recent idea is nice because it's scratching my own itch.  As a developer, I'd absolutely love this tool.
 
 Scratching your own itch has several advantages.
 
