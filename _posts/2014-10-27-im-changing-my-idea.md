@@ -36,7 +36,7 @@ Although the goal is ultimately to create a product business, I still have no ca
 
 Immediately after changing ideas from a vague one to a specific one, I realized a great benefit.  My plans suddenly were much more obvious.
 
-Difficulty in planning is expensive.  I'm incentivized to keep moving forward every day.  Each day I live without revenue is another day of expenses down the drain.  If planning is difficult, then each day is spent less productively.  If planning is easy, then it's much easier to move myself in a direction to eventually realize revenues.
+Difficulty in planning is expensive.  Since I'm bootstrapping, my incentive is to inch my business towards revenue every day.  Each day I live without revenue is another day of expenses down the drain.  If planning is difficult, then each day is spent less productively.  If planning is easy, then it's much easier to move myself in a direction to eventually realize revenues.
 
 Smaller ideas means specific planning, which means more money sooner.
 
