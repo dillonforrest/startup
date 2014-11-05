@@ -8,9 +8,9 @@ title: "Book Review: Traction"
 
 # *Traction* directly influenced the way I prioritize my time
 
-My biggest fears in becoming an entrepreneur were, and still are, marketing and sales.  I'm a developer.  Code shouldn't be a problem.  But I'm out of my comfort zone if I'm trying to sell and build a brand.
+My biggest fears in becoming an entrepreneur were, and still are, marketing and sales.  I'm a developer.  Code shouldn't be a problem if I'm decent at my job.  But I'm out of my comfort zone if I'm trying to sell and market.
 
-<a href="http://tractionbook.com/" target="_blank">*Traction*</a> is a new book which is perfect for people like myself.  It's written by <a href="https://twitter.com/yegg" target="_blank">Gabriel Weinberg and <a href="https://twitter.com/jwmares" target="_blank">Justin Mares</a>.  The aim of the book is to guide a startup on its pursuit for traction and growth.
+<a href="http://tractionbook.com/" target="_blank">*Traction*</a> is a new book which is perfect for people like myself.  It's written by <a href="https://twitter.com/yegg" target="_blank">Gabriel Weinberg and <a href="https://twitter.com/jwmares" target="_blank">Justin Mares</a>.  The aim of the book is to guide the startup's pursuit for traction and growth.
 
 My main takeaway is that a startup should never spend 100% of its time on product.  It should always prioritize traction, at every single step of both the product and company life cycle.
 
@@ -26,7 +26,7 @@ When I was younger, I learned that a company can afford to mess up every single 
 
 However, more popular metholologies like Lean Startup don't place much emphasis on traction.  Lean is a good framework for building a product that people will actually use, but it doesn't equip its followers with any ways to actually make sure people will discover and buy it.
 
-*Traction* fills in the holes.  After reading it, you won't underestimate the traction problem.  You'll not only have a useful product, but also be able to win more business.
+*Traction* fills in the holes.  After reading it, you won't underestimate the traction problem.  You'll be equipt to grow your top line.  You'll not only have a useful product, but also be able to win more business.
 
 #### Slow and steady wins the race
 
