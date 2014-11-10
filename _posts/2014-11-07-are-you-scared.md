@@ -34,7 +34,9 @@ Friend:  "I think you're starting up more because your job sucked, not because y
 
 My friend had an interesting point.  I wasn't really sure how to respond at first.  After a while, I realized that he was correct, to a degree.  I do know that starting a company is my interest, but the events of my last job definitely influenced the timing.  If my last job didn't suck, I probably would've waited longer before starting up.
 
-Although my frustration isn't the reason behind starting up, it definitely accelerated my entrepreneurship plans.  The positive emotion behind my plunge is excitement about learning, having fun, and hopefully making some money.  However, my buddy made me learn that my largest emotion is actually my frustration.  My driving emotion, the frustration, and the positive emotion, the excitement, are misaligned.
+Although my frustration isn't the sole reason behind starting up, it definitely accelerated my entrepreneurship plans.  The positive emotion behind my plunge is excitement about learning, having fun, and hopefully making some money.  However, my buddy made me learn that my driving emotion is actually my frustration.  If it weren't for my frustration, I wouldn't be starting up at this very moment.
+
+My driving emotion, the frustration, and the positive emotion, the excitement, are misaligned.
 
 # Be aware of your emotions, or else they'll control your actions
 
