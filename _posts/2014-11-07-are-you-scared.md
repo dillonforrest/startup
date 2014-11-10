@@ -46,4 +46,4 @@ I am now aware that I have an emotional conflict.  I classify my short-term emot
 
 I don't want my emotions to control me.  I want to be proactive and be the one controlling my emotions.  My overall goal should be to be happier.  My frustration might mask my fear, but I can't allow it to overtake my happiness.  I want my desire to be happy to guide my actions.  This will be my guiding north star to govern my decisions.
 
-You can choose any star you want to be your guiding north star.  Choose wisely.
+You can choose any star you want to be your guiding north star.  Choose wisely before your emotions choose for you.
