@@ -8,7 +8,7 @@ title: "I was setting goals like an idiot"
 
 This is one of my more embarrassing posts in this blog.  Due to the degree of stupidity that I'm revealing, I'll keep this post brief.  :)
 
-During my <a href="https://www.youtube.com/watch?v=gNdyOdtFkAA" target="_blank">latest</a> Founders Gambit episode with <a href="https://twitter.com/SamDeBrule" target="_blank">Sam DeBrule</a>, Sam talked to me about how he was setting goals.  He had a goal to grow his project by 35% each week, and he consistently hit his goals.
+Last week, I shot the <a href="https://www.youtube.com/watch?v=gNdyOdtFkAA" target="_blank">latest</a> Founders Gambit episode with my buddy <a href="https://twitter.com/SamDeBrule" target="_blank">Sam DeBrule</a>.  In the show, Sam talked to me about how he was setting goals.  He had a goal to grow his project by 35% each week, and he consistently hit his goals.
 
 When he told me this, I felt like a switch was flipped in my head.
 
@@ -19,5 +19,7 @@ My problem was that my goals were impossible to fail.  If a goal is too broad to
 # A meaningful goal is a failable goal
 
 So, like Sam, I set my goals with numbers or some other objective method to measure success.  Today is the start of Week 5 for me.  My goal is to talk to 20 businesses about their problems.  By the end of the week, I'll know with extreme precision how well I did.
+
+This should be obvious to most people, but unfortunately it wasn't for me.  Ugh, Dillon.
 
 No more setting goals like an idiot for me.  Being an idiot is something I can't afford.
