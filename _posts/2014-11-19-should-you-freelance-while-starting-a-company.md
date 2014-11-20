@@ -10,15 +10,15 @@ Most of the time, no, you should not freelance while starting a company.  I lear
 
 # Freelancing is a slippery slope back to employment
 
-My buddy Dustin Oliver shared a story with me today.  He has two friends who attempted to start a company together.  Let's call them Eddie and Christine.  Eddie is a bright designer/front-end guy, and Christine is a bright front-end/back-end girl.  That's a powerfully technical founding team.
+My buddy <a href="https://twitter.com/DustinWOliver" target="_blank">Dustin Oliver</a> shared a story with me today.  He has two friends who attempted to start a company together.  Let's call them Eddie and Christine.  Eddie is a bright designer/front-end guy, and Christine is a bright front-end/back-end girl.  That's a solidly technical founding team.
 
-They both quit their jobs to work on their startup attempt full-time.  But, to pay bills, they did consulting while also running their company.
+They both quit their jobs to work on their startup attempt full-time.  But, to pay bills, they did consulting while also launching their company.
 
 The most lucrative consulting gigs were with the biggest clients.  So they took contracts with the biggest clients.  However, bigger clients have not just deeper pockets, but also bigger demands.
 
 Both Eddie and Christine ended up spending all their time consulting.  None of their work went into their own business.
 
-Five months later, Eddie and Christine ended up throwing in the towel.  They went their separate ways and got full-time jobs at separate companies.
+Five months later, Eddie and Christine ended up throwing in the towel.  They went their separate ways and got full-time jobs at separate companies.  Their startup attempt became a lengthy transition between jobs.
 
 # Freelancing is not the correct method to receive money
 
@@ -28,7 +28,7 @@ Freelancing is just more of the thing you're avoiding:  trading off your time di
 
 # The cool kids avoid freelancing
 
-Earlier today, I was chatting with Spencer Walden about our respective startup attempts.  Spencer and I have very similar startup goals.  He mentioned that he would avoid freelancing as long as possible.
+Earlier today, I was chatting with <a href="https://twitter.com/Swaldy" target="_blank">Spencer Walden</a> about our respective startup attempts.  Spencer and I have very similar startup goals.  He mentioned that he would avoid freelancing as long as possible.
 
 I'm joining Spencer.  I'm also avoiding freelancing as long as possible.
 
