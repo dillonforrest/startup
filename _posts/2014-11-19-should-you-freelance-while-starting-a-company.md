@@ -18,7 +18,7 @@ The most lucrative consulting gigs were with the biggest clients.  So they took 
 
 Both Eddie and Christine ended up spending all their time consulting.  None of their work went into their own business.
 
-Five months later, Eddie and Christine ended up throwing in the towel.  They went their separate ways and got full-time jobs at separate companies.  Their startup attempt became a lengthy transition between jobs.
+Five months later, Eddie and Christine ended up throwing in the towel.  They went their separate ways and got full-time jobs at separate companies.  Their startup attempt reduced to just a lengthy transition between jobs.
 
 # Freelancing is not the correct method to receive money
 
@@ -32,9 +32,9 @@ Earlier today, I was chatting with <a href="https://twitter.com/Swaldy" target="
 
 I'm joining Spencer.  I'm also avoiding freelancing as long as possible.
 
-Be like me and Spencer.  Be a cool kid.  Soccumb to my friendly peer pressure and avoid freelancing.  ;)
+Be like me and Spencer.  Be a cool kid.  Succumb to my friendly peer pressure and avoid freelancing.  ;)
 
-# Consulting is a last resort for me
+# Consulting is a last resort
 
 If I run out of money and need to draw a salary to pay bills, I will finally reconsider consulting.  At that point, maybe I'll be openminded to full-time employment again, and maybe I'll just get a normal job.
 
