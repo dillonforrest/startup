@@ -42,7 +42,7 @@ That's all a future possibility.  In the present, I want to focus all my energy 
 
 # My part-time consulting gig
 
-Last week, I did some part-time consulting work.  This week, my client and I both realized that it wasn't going to work out any longer.  On my end, I felt like I committed too much time to consulting.  On his end, he felt like I didn't commit enough time.
+Last week, I did some <a href="http://www.dillonforrest.com/startup/temptations-to-quit/" target="_blank">part-time consulting work</a>.  This week, my client and I both realized that it wasn't going to work out any longer.  On my end, I felt like I committed too much time to consulting.  On his end, he felt like I didn't commit enough time.
 
 I learned a lot from my client, and I'm grateful for the experience.  I learned about how to be a good freelancer, and I especially learned that freelancing is a bad idea for me.
 
