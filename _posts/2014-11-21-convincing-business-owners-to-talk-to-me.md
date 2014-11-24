@@ -22,22 +22,22 @@ I definitely failed my week's goal.
 
 My poor response rate means I'm having a harder time learning about small business owners.  I can't collect enough information.
 
-The natural question here is why my response rate is so poor.
+The natural question here is, why is my response rate so poor?
 
-The answer lies somewhere in my initial email.  My first version of my initial email, which I send directly to business owners asking to meet them, is a lengthier email, maybe 300 words.  I make a strange ask in wanting to talk to them to learn about "painpoints" and "workflows."  I did a lot of rambling.  Quickly, I was seeing a horrible response rate with it.  Only one business replied to me to offer to speak with me.
+The answer lies somewhere in my initial email, which I send directly to business owners asking to meet them.  My first version of my initial email is a bit lengthy, maybe 300 words.  I make a strange ask in wanting to talk to them to learn about "painpoints" and "workflows" and other annoying jargon that normal people don't use.  I rambled a lot.  Quickly, I was seeing a horrible response rate with it.  Only one business replied saying they were willing to chat with me.
 
 Occasionally, I'd call a business to test my approach.  While on the phone, social contract discourages people to hang up mid-conversation, even if they're confused.  The phone gave me more colorful feedback.  I could literally hear the person on the other end being confused about why I was reaching out.
 
-So, I changed my approach.
+My approach caused confusion.  So, I changed my approach.
 
 # My second approach is simpler, but still not good
 
 In my second approach, I trimmed my message to the bare essentials.  Hello, I'm a first-time entrepreneur in New York who's trying to meet other business owners to learn how others do business.  Can I chat with you for 30 minutes?
 
-For the second half of this week, I tried out my simpler approach.  However, my response rate is still poor.
+For the second half of this week, I tried out my simpler approach.  However, my email response rate is still poor.  On the phone, however, people understood me immediately and received me warmly.  That's a good sign!  My second approach might still not be great, but it's a step in the right direction.
 
 # I need information
 
 I need to inform my decisions with actual facts and data.  Unfortunately for me, I don't have much information at all.  If I want to find a product idea which people are happy to purchase, I need to get more information.
 
-This week was a failure, but I still learned a lot, especially about how difficult it is to randomly talk to people hoping they'll share their problems with me.  I need to become more effective.
+This week was a failure, but I still learned a lot, especially about how difficult it is to randomly talk to people hoping they'll share their problems with me.  I need to be more effective.
