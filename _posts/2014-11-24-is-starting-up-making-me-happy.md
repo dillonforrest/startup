@@ -10,7 +10,7 @@ Today is the start of Week 6 for me.
 
 I woke up yesterday feeling anxious about still not having a product idea that people are paying for.  It's an anxiety which started around Week 3 and got a little worse with each passing week.
 
-Some days are good, and I feel optimistic.  Some days are bad, and the anxiety pulls me awake as it did yesterday.
+Some days are good, and I feel optimistic.  Some days are bad, and the anxiety pulls me from sleep as it did yesterday.
 
 The anxiety is a new recurring character in my life.  I started wondering, if I'm so anxious, am I happy?
 
@@ -24,15 +24,15 @@ Whew.  An experienced entrepreneur told me to calm down.  Breathe in, breathe ou
 
 If I take a step back and look at the bigger picture, I can see that the whole journey could take years.  Six weeks is nothing.  I'm definitely being impatient.
 
-Each passing day with minimal results makes the impatience worse.  How will the impatience be six months from now?
+Each passing day with minimal results makes the impatience worse.  How will the impatience be six months from now if I'm still unhappy with my results?
 
 # Loneliness from lack of professional identity
 
-Something I didn't fully comprehend before was that your work forms a huge part of your identity.  You might try hard to separate your work from the rest of your life, and you might resist allowing yourself to be labeled by your job.  However, the rest of society will always find a way to identify you by your profession.
+Something I didn't fully comprehend before taking the leap was that your work forms a huge part of your identity.  You might try hard to separate your work from the rest of your life, and you might resist allowing yourself to be labeled by your job.  However, the rest of society will always find a way to identify you by your profession.
 
 I am unemployed, so I have no employer to create that identity for me.  I have made zero dollars from my business attempt so far, so I can't honestly call myself an entrepreneur just yet.  So what kind of professional identity do I have?
 
-If you don't pick your own professional identity, society will pick one for you.  Choose for yourself before others choose for you.
+If you don't pick your own professional identity, society will pick one on your behalf.  Choose for yourself before others choose for you.
 
 When I meet people now, and when the inevitable "what do you do" comes up, I jokingly say that I'm a starving artist.  But really, I'm not sure what else to say without launching into the full story.  Starving Artist might be the most reasonable answer to give if I'm not sure what else to say.
 
@@ -48,9 +48,9 @@ Saying to another random 20-something that I'm a starving artist might be funny.
 
 I feel a strong sense of shame in my current situation when it comes to presenting myself to my girlfriend's parents.  Will her parents feel like I can provide for their daughter?  Will her parents trust that I'll do my best to treat her well?  Will they be proud of who their daughter chose to date?
 
-For each of these questions, I wouldn't be surprised and wouldn't take it personally if the answer is no.
+For each of these questions, I wouldn't be surprised and wouldn't take it personally if the answer is no.  What parent is excited about their daughter's unemployed boyfriend?
 
-Let's just be confident and optimistic.  Let's hope for the best this Thanksgiving.
+Let's just be confident and optimistic when I meet them.  Let's hope for the best this Thanksgiving.
 
 # Am I happy?
 
