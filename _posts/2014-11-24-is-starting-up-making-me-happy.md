@@ -48,7 +48,7 @@ Saying to another random 20-something that I'm a starving artist might be funny.
 
 I feel a strong sense of shame in my current situation when it comes to presenting myself to my girlfriend's parents.  Will her parents feel like I can provide for their daughter?  Will her parents trust that I'll do my best to treat her well?  Will they be proud of who their daughter chose to date?
 
-For each of these questions, I wouldn't be surprised and wouldn't take it personally if the answer is no.  What parent is excited about their daughter's unemployed boyfriend?
+For each of these questions, I wouldn't be surprised and wouldn't take it personally if the answer is no.  What parents are excited about their daughter's unemployed boyfriend?
 
 Let's just be confident and optimistic when I meet them.  Let's hope for the best this Thanksgiving.
 
