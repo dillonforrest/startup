@@ -6,7 +6,7 @@ can-subscribe: true
 title: "Month 1: November 2014 wrapup"
 ---
 
-This month was a humbling month for me.  I was hoping to find a product idea for which people would pay money.  However, I ultimately failed to do so.
+This month was humbling.  I was hoping to find a product idea for which people would pay money.  However, I ultimately failed to do so.
 
 # Completed
 
@@ -32,7 +32,7 @@ A bad month would be one where I learn nothing while validating no ideas.
 
 #### I resisted the temptation to quit
 
-I wrote about it at length <a href="http://www.dillonforrest.com/startup/temptations-to-quit/"> target="_blank">here</a>.
+I wrote about it at length <a href="http://www.dillonforrest.com/startup/temptations-to-quit/" target="_blank">here</a>.
 
 The temptations still arise, but I do a good job of resisting them.
 
