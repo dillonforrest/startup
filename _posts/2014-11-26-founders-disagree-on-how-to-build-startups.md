@@ -3,7 +3,7 @@ layout: post
 share: true
 comments: true
 can-subscribe: true
-title: "Which side will you take?"
+title: "Founders disagree on how to build startups"
 ---
 
 Since taking the leap, I spoke with many startup founders.  Some of them I met for advice on starting a company.  Some I met to learn more about problems which I might be able to solve with my own products.
@@ -54,7 +54,7 @@ I wouldn't go as far as to say the second group was unwelcoming, but there was m
 
 To be fair to the less welcoming founders, I haven't yet accomplished much, so I'm not yet a legitimate founder.  All that matters, really, is that I accept myself as a legitimate founder.
 
-# Which side will you take
+# Which side will you take?
 
 Startup founders almost universally disagree on the proper way to start a company.  There's a lot of noise and variation here.  It's wise to choose a side before starting yourself.
 
