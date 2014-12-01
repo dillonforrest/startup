@@ -48,7 +48,7 @@ I have a lot to say here, but I'm saving it for a post later this week.  In sum,
 
 # Things I wish I did better
 
-#### Wasting my time
+#### Waste less time
 
 I wasted a good amount of time this month.  Some of it was from consulting for other people or being tempted to quit and join somebody else's startup.  Some of it was poor goal setting.  Some of it was poor decision making.
 
