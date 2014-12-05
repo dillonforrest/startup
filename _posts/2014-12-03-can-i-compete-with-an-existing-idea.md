@@ -38,7 +38,7 @@ Smart people working and investing in an existing idea is a good thing.  They're
 
 #### Selling an existing idea is easier than selling a new one
 
-When Henry Ford first made cars, people still traveled with horse-drawn carraiges.  He didn't call his products "cars."  He called them "horseless carriages."  A "car" is a new word.  A "horseless carriage" uses words that people already understand and can appreciate.  Henry used existing words rather than novel ones to communicate his value proposition.
+When Henry Ford first made cars, people still traveled with horse-drawn carriages.  He didn't call his products "cars."  He called them "horseless carriages."  A "car" is a new word.  A "horseless carriage" uses words that people already understand and can appreciate.  Henry used existing words rather than novel ones to communicate his value proposition.
 
 I blogged earlier about the importance of the <a href="http://www.dillonforrest.com/startup/the-once-sentence-summary/" target="_blank">one-sentence summary</a>.  It's important because people need to understand your value proposition before being willing to spend money on it.
 
