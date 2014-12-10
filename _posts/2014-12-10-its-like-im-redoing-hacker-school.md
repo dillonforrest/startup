@@ -18,6 +18,6 @@ The second is that progress is generally slow and steady.  Hacker School invaria
 
 The third is humility.  Hacker School is very humbling in that you're surrounded by amazingly brilliant programmers, some who have been professional developers for decades maybe.  My startup journey thus far led me to meet many different founders, all of whom offered great feedback and advice, all of whom made me realize how much I have to learn.
 
-Carl's right.  It's like I'm redoing Hacker School.
+Carl's right.  It's like I'm redoing Hacker School.  That's a good thing.
 
 I'm still not sure where this journey will take me, but I'm happy I did it.  Schools and jobs are not the only places you can learn.  You can follow the Hacker School way and be your own teacher.
