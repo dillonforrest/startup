@@ -10,11 +10,11 @@ I had low expectations for this month due to the holiday. I ended up working onl
 
 # Completed
 
-This month was primarily spent attempting to validate two specific new product ideas.
+This month was primarily spent attempting to validate two new product ideas.
 
-The idea was broadly a user analytics tool for single-page apps. I spoke with a few people and luckily connected on a few cold emails with other companies to discuss this value proposition. However, ultimately I felt that I didn't know enough about analytics to deliver on an analytics tool.
+The first idea was broadly a user analytics tool for single-page apps. I spoke with a few people and luckily connected on a few cold emails with other companies to discuss this value proposition. However, ultimately I felt that I didn't know enough about analytics to deliver on an analytics tool.
 
-I also considered creating tools simply to track user behaviors in web apps. It seems like a growing area in which some people are making money. However, I couldn't really find an underserved market segment. Worse, I couldn't find any meaningful way to even access potential customers. This is my distribution problem coming back to haunt me.
+The second idea was tools to track user behaviors in web apps. It seems like a growing area in which some people are making money. However, I couldn't really find an underserved market segment. Worse, I couldn't find any meaningful way to even access potential customers. This is my distribution problem coming back to haunt me.
 
 Special thanks to my friend <a href="https://twitter.com/CarlSednaoui" target="_blank">Carl Sednaoui</a> for helping out majorly on those last two ideas! His marketing expertise and experience building <a href="http://www.mailcharts.com/" target="_blank">MailCharts</a> helped me out a lot.
 
