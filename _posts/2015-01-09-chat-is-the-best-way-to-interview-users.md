@@ -16,7 +16,7 @@ In my opinion, the best way to conduct these user interviews is by chat, just cl
 
 Last month, the product idea I was pursuing was user analytics for single-page apps. I was talking to technical cofounders of startups using modern single-page app frameworks.
 
-One day, while I still searched for more founders to get more market feedback, <a href="https://twitter.com/JdotJdotF" target="_blank">J.J. Fliegelman</a> and I started talking on gchat. J.J. and I are college classmates and also fellow <a href="https://www.hackerschool.com/" target="_blank">Hacker Schoolers</a>, and now he runs <a href="https://www.campusjob.com/#!/" target="_blank">Campus Job</a>. At that moment, I realized that J.J. hacks on a single-page app for Campus Job, and he was perfect to speak with for my product idea.
+One day, while I still searched for more founders to get more market feedback, <a href="https://twitter.com/JdotJdotF" target="_blank">J.J. Fliegelman</a> and I started talking on gchat. J.J. and I are college classmates and also fellow <a href="https://www.hackerschool.com/" target="_blank">Hacker Schoolers</a>, and now he runs <a href="https://www.campusjob.com" target="_blank">Campus Job</a>. At that moment, I realized that J.J. hacks on a single-page app for Campus Job, and he was perfect to speak with for my product idea.
 
 > Me: "hey btw, can i talk to you about your analytics workflow with your single-page app?"
 > 
