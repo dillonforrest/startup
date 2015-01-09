@@ -24,19 +24,19 @@ One day, while I still searched for more founders to get more market feedback, <
 > 
 > Me: "okay cool! can i meet up with you at some point to talk about it?"
 > 
-> J.J.: "sorry dude, but things have been so busy that actually now is always the best time to talk to me"
+> J.J.: "sorry dude, but things have been so busy that actually around this time of day is usually the best time to talk to me"
 
 Campus Job is picking up a lot of press, and I'm really stoked for J.J.! But his traction also meant that it was difficult for him to make time to meet up to help me gather feedback.
 
 > J.J.: "wanna just ask me about it now on gchat?"
 
-I said, fuck it let's do it! All startup advice advocated speaking to people in person, or at least by video chat or phone call, but let's improvise here.
+I said, fuck it let's do it! All startup advice advocated speaking to people in person, or at least by video chat or phone call, but let's improvise here and just use gchat instead.
 
 J.J. unloaded plenty of great feedback right then and there on gchat. Receiving this feedback while on gchat had a ton of unforeseen benefits:
 
-#### No note-taking means being more present in the interview
+#### No note-taking needed
 
-You'll already have everything your interviewee had to say in writing. You can scroll up to reread anything during the chat. And since you're not wasting any brainpower on capturing notes, you can dedicate all your brainpower to being present in the actual interview, which is what you should be investing 100% of your brainpower into anyway. After the chat is over, you have everything down in your computer, probably in the cloud, verbatim, accessible at any time.
+You'll already have all your interviewee's words in writing. You can scroll up to reread anything during the chat. And since you're not wasting any brainpower on capturing notes, you can dedicate all your brainpower to being present in the actual interview, which is what you should be investing 100% of your brainpower into anyway. After the chat is over, you have everything down on your computer, in the cloud, verbatim, accessible at any time.
 
 #### Sharing links
 
@@ -60,7 +60,7 @@ I'm not sure if others would relate to this benefit. But for me, it's easier to 
 
 One way this is useful for me is to help avoid closed-ended questions. Open-ended questions are immensely preferable to closed-ended questions so your interviewee can give you more information. Open-ended questions are your primary tool to gather lots of information in a short amount of time. With chat, I personally can make sure I'm avoiding asking dumb closed-ended questions, saving both of our time.
 
-#### It's easier to ask somebody to chat than to ask somebody to meet in-person
+#### Asking to chat is easier than asking to meet in-person
 
 Asking to chat is a much smaller ask than asking to meet in-person, or even video chat or call on the phone. The smaller the ask, the more likely they'll say yes, and the faster you can get feedback.
 
