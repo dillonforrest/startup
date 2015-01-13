@@ -8,7 +8,7 @@ title: "Four simple sales lessons for new entrepreneurs"
 
 Early in my journey, I realized that <a href="http://www.dillonforrest.com/startup/introversion-and-entrepreneurship-dont-mix/" target="_blank">introversion and entrepreneurship</a> don't mix. You need to be able to sell, no matter how much your inner introvert hates that idea.
 
-Here are my first four major lessons that I learned about selling.
+Here are the first four major lessons that me and my introverted self learned about selling.
 
 # The first ask should be easy to say yes to
 
@@ -30,11 +30,11 @@ I started benefiting immediately when I tried listening more. **Listening more t
 
 # Offering help to solve problems is better than selling
 
-If you understand your users' problems, you can help solve them. You don't need to make a sale. Pushing a sale sounds ineffetive and unhelpful for your users. However, offering a real solution to their problems is helping your users. You make money by helping users, not by pushing sales on them.
+If you understand your users' problems, you can help solve them. You don't need to make a sale. Pushing a sale sounds ineffective and unhelpful for your users. However, offering a real solution to their problems is helping your users. You make money by helping users, not by pushing sales on them.
 
-Admittedly, when demand has been established, you might need to facilitate the sale to ensure the transaction happens. This might be considered "pushing" a sale. Yet this is a sale that both parties want. That's okay. Pushing a sale that only you want is not.
+Admittedly, when demand has been established, you might need to facilitate the sale to ensure the transaction happens. You might need to ping them and nudge them in the right direction when they drop the ball. This might be considered "pushing" a sale, yet this is a sale that both parties want. That's okay. Pushing a sale that only you want is not.
 
-The ultimate benefit from choosing not to sell but to help solve problems is, ironically, that it's easier to actually try to make the sale this way. You feel less guilty and you're more confident. **Trying to solve problems rather than sell helps give me the confidence to put myself in front of other users and discuss my value proposition.**
+The ultimate benefit from choosing not to sell but to help solve problems is, ironically, that it's actually easier to try to sell this way. You feel less guilty and you're more confident. **Trying to solve problems rather than sell helps give me the confidence to put myself in front of other users and discuss my value proposition.**
 
 # Know that not everybody will be an early adopter
 
@@ -42,4 +42,4 @@ I credit <a href="https://twitter.com/bosmeny" target="_blank">Tyler Bosmeny</a>
 
 It can be hard to continually put yourself in front of others just to be rejected. However, you must remember that this is a numbers game. Perhaps only 2% of the market is willing to be an early adopter. 98% of the market won't be crazy enough to invest in a new product. **This made it easier for me to be rejected and prevent myself from getting discouraged.**
 
-Selling is a marathon. Don't quit early in the race just because a few people said no. They were part of the 98% not yet ready to take a bet on your new product.
+In running his company <a href="http://honeyandsoulpaleo.com/" target="_blank">Honey and Soul Paleo Goodies</a> with his wife, my friend William Lee commented that "everything boils down to a people-finding mission." Selling is a marathon. Don't quit early in the race just because a few people said no. They were part of the 98% not yet ready to take a bet on your new product.
