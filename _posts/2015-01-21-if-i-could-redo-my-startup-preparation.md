@@ -18,6 +18,8 @@ I ended up staying one full year so I could buy my stock options. Although I'm g
 
 If I would have left, I would have probably preferred to find a better place to work rather than start up right away. There were more software problems that I wanted to solve before starting up. That would have been a great opportunity to not just amass more savings but also actually learn and grow.
 
+I cared far too much about buying my options. Five months of tedious and boring work did far more damage to me than I ever would have anticipated.
+
 # I'd validate a business idea before quitting my job.
 
 I originally started up with no set <a href="http://www.dillonforrest.com/startup/whats-my-business-idea/" target="_blank">business idea</a>. I don't think that's a bad idea necessarily, but it's also unnecessary.
