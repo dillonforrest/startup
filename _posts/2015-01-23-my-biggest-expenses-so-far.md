@@ -36,4 +36,6 @@ Wework was a bad idea. I got literally zero benefit out of my Wework membership,
 
 Although New York has a reputation for being expensive, I've managed to keep my expenses relatively in control. The big win is not going out. Food and drinks don't cost a lot individually, but if you go out to eat and drink every day, you'll be broke before you know it. I forced myself to learn to <a href="http://www.dillonforrest.com/startup/saving-money-on-food/" target="_blank">cook</a>. It's paid off so far. And of course, no new clothes, no vacations, no cabs.
 
-Despite my rent and some of my other big expenses, I'm optimistic about my spending and my runway still. There are some mistakes I can afford to make as long as I make those mistakes only one time. Fool me twice, shame on me.
+Despite my rent and some of my other big expenses, I'm optimistic about my spending and my runway still. There are some mistakes I can afford to make as long as I make those mistakes only one time.
+
+Fool me twice, shame on me.
