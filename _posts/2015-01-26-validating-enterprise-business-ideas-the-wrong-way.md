@@ -16,7 +16,7 @@ They all make it sound so easy to validate problems, but it's not easy. It's a l
 
 The reason why it's so hard is that nobody wanted to talk to me. Only a handful of people wanted to set aside the time to talk with me about their problems. Several times I was able to validate a problem in the SMB space, but I would have to contact at least 50 companies before 1 person would reply.
 
-I think the plain advice "just talk to people about their problems" is effective for consumer and maybe 1- or 2-person companies. They're much more likely to make time to talk to you. But, in my experience thus far, SMB and enterprise problems can't be so simply validated. Talking to you is not an acceptible block in their calendar.
+I think the plain advice "just talk to people about their problems" is effective for consumer and maybe 1- or 2-person companies. They're much more likely to make time to talk to you. But, in my experience thus far, SMB and enterprise problems can't be so simply validated. Talking to you is not an acceptable block in their calendar.
 
 Very few people at existing companies are willing to talk to you about their problems, especially when you're a random unknown person trying to start your first company like myself. Generic startup advice won't help you validate problems that SMB or enterprise customers have.
 
