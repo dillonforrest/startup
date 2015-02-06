@@ -12,7 +12,7 @@ Previously, I wrote about why selling to local small businesses is <a href="http
 
 "Centrifugal" means repelling from the center. I describe people who ignore technological growth as centrifugal. These people are the reason why we still use snail mail and fax. Unlike how centripetal people are highly connected with other centripetal people, centrifugal people are not necessarily connected with other centrifugal people. They're less likely to be connected at all, really.
 
-If you're a new entrepreneur, you should know that you will only succeed by solving problems that people have. However, it's only easy to validate problems when you discuss them with centripetal people. Centripetal people are more likely to seek optimizations and maximize their bottom line. Centrifugal people are just clocking in and out daily.
+If you're a new entrepreneur, you should know that you will only succeed by solving problems that people have. However, it's only easy to validate problems when you discuss them with centripetal people. Centripetal people are more likely to seek optimizations and maximize their bottom line. They'll be much more excited to talk to you. Centrifugal people are just clocking in and out daily. They don't care enough to talk to you.
 
 As a new entrepreneur, you should seek the centripetal rather than centrifugal.
 
