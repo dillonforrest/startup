@@ -20,11 +20,11 @@ Third, you can't get enterprise customers excited by just an idea, but you can w
 
 # A less minimal MVP
 
-The average enterprise customer requires a more developed MVP than the average consumer. While wireframes might be enough for a consumer, an enterprise customer needs something less nebulous, more concrete. They want to see that you've invested more of your own skin into the product before investing their own.
+The average enterprise customer requires a more developed MVP than the average consumer. While wireframes might be enough for a consumer, an enterprise customer needs something less nebulous, more tangible. They want to see that you've invested more of your own skin into the product before investing their own.
 
 At this point, Mike made a strong point. Yes, you need more functionality than the lean startup preachers say. However, you can still fall into the trap of building too much. It's tough to define your level of "minimal" in MVP, but you have a lot to lose by getting your definition wrong and wasting time overdeveloping your product. It's very easy to cross that line and go way too far.
 
-Right now, I have the opposite problem and didn't develop my products nearly enough before taking them to any potential enterprise customers. I'm far on the other end of the line.
+Right now, I have the opposite problem and didn't develop my products nearly enough before taking them to any potential enterprise customers. I'm far on the other end of the line. Any large delta from the line is costly, no matter which direction your missteps were in.
 
 # Validating the market vs. validating the product
 
@@ -38,6 +38,6 @@ In validating a product, you still need to talk to customers. But, as mentioned 
 
 I feel like lean startup methodology and popular startup wisdom really bit my ass when it came to validating markets. I approached everything all wrong. I'm glad I started getting whiffs of my misdirection a few weeks ago, and I'm glad that more experienced entrepreneurs are confirming my suspicion, even smiling knowingly when I talk to them about my struggles just "talking to people about their problems."
 
-I bashed lean startup a bit in my blog the past few weeks, but I still believe the core philosophies of lean are sound. It's about derisking as much as possible. However, actual prescribed lean startup tactics make it seem like you can derisk entirely. That's just not so if you're targeting enterprise customers. You'll have to invest some cycles into developing a more fleshed-out MVP, even without product validation. You can derisk a little, but you can't get rid of all your risk entirely.
+I bashed lean startup a bit in my blog the past few weeks, but I still believe the core philosophies of lean are sound. It's about derisking as much as possible. However, actual prescribed lean startup tactics make it seem like you can derisk entirely. That's just not so if you're targeting enterprise customers. You'll have to invest some cycles into developing a more fleshed-out MVP, even without product validation. You can derisk a little, but you can't ever be completely riskless.
 
-In the end, you can't let risk get in the way of getting shit done.
+In the end, you can't let smaller, manageable risk get in the way of getting shit done.
