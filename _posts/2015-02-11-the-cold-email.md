@@ -14,7 +14,7 @@ Obviously, I was being facetious and NASA didn't confirm it, but Hrishi definite
 
 You <a href="http://www.dillonforrest.com/startup/validating-enterprise-business-ideas-the-wrong-way/" target="_blank">can't</a> just walk up to enterprise customers to talk to them about their problems. You just can't.
 
-Hrishi agreed with Greg and Mike's lessons from my <a href="http://www.dillonforrest.com/startup/preselling-to-enterprise-customers/" target="_blank">last post</a>. You're not worth an enterprise customer's time unless you can offer an immediate solution right now. Trying to talk to them about their problems following lean startup tactics is a waste of everybody's time. You definitely need to invest your own cycles into building a real MVP with real code to enable enterprise customers to discuss software solutions with you.
+Hrishi agreed with Greg and Mike's lessons from my <a href="http://www.dillonforrest.com/startup/preselling-to-enterprise-customers/" target="_blank">last post</a>. You're not worth an enterprise customer's time unless you can offer a specific solution right now. Trying to have a nebulous conversation about their problems following lean startup tactics is a waste of everybody's time. A specific solution is paramount.
 
 # Don't talk to very small startups
 
