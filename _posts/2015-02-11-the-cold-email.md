@@ -18,13 +18,13 @@ Hrishi agreed with Greg and Mike's lessons from my <a href="http://www.dillonfor
 
 # Don't talk to very small startups
 
-Hrishi said that although he understands my desire to talk to very small startups due to the likelihood that they'll talk to me, the very small startup demographic is a bad idea. His logic was that these companies are so available to talk to me precisely because their work time is not valuable to them, yet at least. That makes them have a lower willingness to spend. They're wose customers.
+Hrishi said that although he understands my desire to talk to very small startups due to the likelihood that they'll talk to me, the very small startup demographic is a bad idea. His logic was that these companies are so available to talk to me precisely because their work time is not valuable to them, not yet at least. That makes them less likely to spend money. They're just worse customers.
 
-Don't conflate willingness to spend with willingness to talk. Duly noted. Thanks Hrishi!
+Ultimately, don't blindly conflate willingness to talk with willingness to spend. Duly noted. Thanks Hrishi!
 
 # The cold email
 
-Hrishi taught me some important tips on cold emailing, cold calling, and cold approaching target enterprise customers. I have struggled with the cold approach for a <a href="http://www.dillonforrest.com/startup/convincing-business-owners-to-talk-to-me/" target="_blank">long time</a>.
+Hrishi taught me some important tips on cold emailing, cold calling, and cold approaching target enterprise customers. I struggled with the cold approach for a <a href="http://www.dillonforrest.com/startup/convincing-business-owners-to-talk-to-me/" target="_blank">long time</a>.
 
 Now, at this point, I know I've had some readers tell me in the past that cold emails and any outbound sales is just a waste of time. To that, I'll just wish you luck in your B2B startup journey without using outbound sales.
 
