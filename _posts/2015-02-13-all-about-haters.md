@@ -42,7 +42,7 @@ The common trend with haters is that they shouldn't really matter to you. They h
 
 One thing that I've noticed is that experienced entrepreneurs have never been haters to me. They've always been encouraging. These are the guys who have the personal history to back any hating that they'd choose to dish out, but they're always consistently respectful and supportive. The trend is so strong that now, when I see a hater, I interpret the hate as a signal for inexperience.
 
-Another thing I've noticed is that my supportive family and friends have a genuine respect for me and my preparedness for the journey. Sure, despite my preparedness, I made some <a href="http://www.dillonforrest.com/startup/my-biggest-expenses-so-far/" target="_blank">expensive mistakes</a>, but they were always understanding and accepting.
+Another thing I've noticed is that my supportive family, friends, and girlfriend have a genuine respect for me and my preparedness for the journey. Sure, despite my preparedness, I made some <a href="http://www.dillonforrest.com/startup/my-biggest-expenses-so-far/" target="_blank">expensive mistakes</a>, but they were always understanding and accepting.
 
 These are the people who actually matter, and they don't care to hate. The people who end up hating probably don't matter.
 
