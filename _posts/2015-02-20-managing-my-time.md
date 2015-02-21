@@ -62,7 +62,7 @@ I believe that the steady, consistent worker will outperform the sprinter. Rest 
 
 I usually don't work on weekends. If I do, it's usually either fun stuff for me, probably relating to programming, or writing a blog post that I was supposed to write a day or two before.
 
-I wrote a <a href="http://www.dillonforrest.com/startup/balancing-a-relationship-with-starting-up/" target="_blank">whole post</a> about balancing my relationship with starting up. The short story in this post's context is that my girlfriend is my biggest supporter right now, and spending time with her is extremely therapeutic for me.
+I wrote a <a href="http://www.dillonforrest.com/startup/balancing-a-relationship-with-starting-up/" target="_blank">whole post</a> about balancing my relationship with starting up. The short story in this post's context is that I always feel happier when I'm with my girlfriend, and I think I'm mostly sane because of her.
 
 # No feedback
 
