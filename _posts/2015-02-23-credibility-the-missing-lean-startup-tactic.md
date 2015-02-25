@@ -3,7 +3,7 @@ layout: post
 share: true
 comments: true
 can-subscribe: true
-title: "Credibility: The missing Lean Startup tactic"
+title: "Credibility: the missing lean startup tactic"
 ---
 
 This post is a bit of a recap, and also an explanation of the logic behind my complete disregard for "sell before you build."
@@ -34,7 +34,7 @@ Those of us who aren't famous and want to solve enterprise problems, we have to 
 
 Defining how "minimal" our MVP should be is probably more art than science. Popular startup wisdom says that if you're proud of your product, then you waited too long to put it in front of customers. However, that's not very actionable.
 
-So how much should you build for your MVP? I don't have an actionable answer, but I know that you should build just enough to earn credibility. Enterprise customers should be able to see it and be able to take you and your product seriously. You should be able to earn yourself more of their time and attention.
+So how much should you build for your MVP? I much as I want an actionable answer, I don't have one, but I know that you should build just enough to earn credibility. Enterprise customers should be able to see it and be able to take you and your product seriously. You should be able to earn yourself more of their time and attention. The amount of building required to do so can be determined only by you.
 
 # Lean startup tactics vs. lean startup philosophy
 
