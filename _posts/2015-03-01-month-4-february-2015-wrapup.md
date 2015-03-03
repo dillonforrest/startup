@@ -46,6 +46,8 @@ This month started awfully. In retrospect, I think I was depressed. I had severa
 
 There are two main reasons why I didn't end up quitting. One was that I changed my game plan. Spending time working on a prototype meant that I had something new to work on. It's a new hope for me to figure out how to solve real problems for real customers. The other reason is my girlfriend. Having a <a href="http://www.dillonforrest.com/startup/balancing-a-relationship-with-starting-up/" target="_blank">relationship</a> while starting up isn't easy, but I wouldn't be able to do it without my super smart girlfriend to help me.
 
+If there's anything I did well this month, it was persevere through self-doubt.
+
 # Doing
 
 #### My prototype
