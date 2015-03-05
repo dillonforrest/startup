@@ -30,9 +30,9 @@ But Dillon, you say, why can't you just pivot when you get a failure?
 
 In the cases where the failure is a failed attempt to validate a market or product, sure, a pivot is probably the way to continue finding the correct answer. However, one doesn't simply pivot.
 
-<img src="http://i.imgur.com/GRpUeN1.jpg" alt="One doesn't simply PIVOT"></img>
+<img src="http://i.imgur.com/GRpUeN1.jpg" alt="One doesn't simply PIVOT" />
 
-You just worked really hard on your current project. You had some great signs to make you think it would work. It made you excited. Then suddenly, it failed. You're crushed. You aren't ready to pivot, yet at least.
+You just worked really hard on your current project. You had some great signs to make you think it would work. It made you excited. Then suddenly, it failed. You're crushed. You're defeated. You aren't ready to pivot, not yet at least.
 
 # Your self-doubt
 
