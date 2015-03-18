@@ -12,8 +12,8 @@ No matter how much I get done, I still feel overwhelmed by the sheer volume of w
 
 My bet is that I can win against my enemy if I accomplish something every single day. Mathematically, a daily 1% improvement compounded for 70 days will aggregate to a full 100% improvement.
 
-There are two takeaways here. One is that steady input can eventually build up to a large output. No matter how discouraged I feel, I can't give up. I need to show up every single day and move the venture another step further. Work needs to become more than work. It needs to become a habit, or a lifestyle. It needs to be just a part of who I am to continue doing something every day into the unforeseeable future.
+There are two takeaways here. The first takeaway is that steady input can eventually build up to a large output. No matter how discouraged I feel, I can't give up. I need to show up every single day and move the venture another step further. Work needs to become more than work. It needs to become a habit, or a lifestyle. It needs to be an integral part of myself in order to continue working every day into the unforeseeable future.
 
-Another takeaway is that my efforts need to compound on themselves to make today's efforts more effective than yesterday's. I need to continue learning so that I spend less time floundering, more time executing. I need to continue refining my processes and my tooling to be increasingly efficient.
+The second takeaway is that my efforts need to compound on themselves to make today's efforts more effective than yesterday's. I need to continue learning so that I spend less time floundering, more time executing. I need to continue refining my processes and my tooling to be increasingly efficient.
 
 Build and sell, every day. Nothing else matters.
