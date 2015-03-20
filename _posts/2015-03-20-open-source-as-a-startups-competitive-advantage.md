@@ -14,10 +14,10 @@ Tom Preston-Werner wrote that GitHub chooses to <a href="http://tom.preston-wern
 
 - It's great advertising for your company
 - It enables more work done faster when external developers contribute
-- It attract, screen, and retain developers
+- It attracts, screens, and retains developers
 - It produces more robust software
 
-Open source works incredibly for GitHub. I'm interested in replicating certain parts of their model hoping to derive some of the same business value and some of the same fun, because let's face it, open source is pretty damn sexy.
+Open source works incredibly for GitHub. I'm interested in replicating certain parts of their model hoping to derive some of the same business value and some of the same fun, because let's face it, developers think open source is pretty damn sexy.
 
 # Negative takes on open source
 
@@ -37,9 +37,9 @@ So, how do we make sense of both of these points of view? I believe I can reconc
 
 Utilities can derive much more business value than applications.
 
-It's a semantic discussion, but for this post I define the difference between the two as the portal through which consumers interact with the software. Consumers interact with utilities using an API. Consumers interact with an application using a UI. Rails, react, git, linux, underscore, clojure, node are all software intended to be used programmatically via APIs. Facebook, Twitter, Gmail are all applications which use their UIs to allow users to create, retrieve, update, and delete records.
+It's a semantic discussion, but for this post I define the difference between the two as the portal through which consumers interact with the software. Utilities are consumed via an API. Applications are consumed via a UI. Rails, react, git, linux, underscore, clojure, node are all software intended to be used programmatically via APIs. Facebook, Twitter, Gmail are all applications which use their UIs to allow users to create, retrieve, update, and delete records.
 
-Software meant to be consumed through an API will naturally have only developers as its userbase. Applications' userbases will have small amounts of developers. I believe utilities are stronger candidates for open sourcing than applications if you want to derive business value.
+Software meant to be consumed through an API will naturally have only developers as its userbase. Only developers care about software accessible via an API. Applications' userbases will have small amounts of developers. I believe utilities are stronger candidates for open sourcing than applications if you want to derive business value.
 
 #### Popularity
 
@@ -49,9 +49,9 @@ Sacha's Telescope project is by no means unpopular. As of this writing, it has o
 
 #### By developers for developers
 
-Tom's article makes the benefits of open source trivial to realize. The reality is probably closer to the opposite.
+Tom's post suggests the benefits of open source are trivial to realize. The reality is probably closer to the opposite. It's probably difficult for most people to find value in open sourcing their code.
 
-GitHub is a company built by developers for developers. The cofounders were all extremely technical. They weren't your typical bottom-bucket startup founders who think they're Max Levchin but can't use version control or write unit tests. Their target customers are developers and engineering teams.
+GitHub is a company built by developers for developers. The cofounders were all extremely technical. They aren't your typical bottom-bucket startup founders who think they're Max Levchin but can't use version control or write unit tests. Their target customers are developers and engineering teams. They're a company by developers for developers.
 
 If your company is built by developers for developers like GitHub, you should strongly consider open source.
 
