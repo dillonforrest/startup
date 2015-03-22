@@ -35,7 +35,7 @@ So, how do we make sense of both of these points of view? I believe I can reconc
 
 #### Utilities vs. applications
 
-Utilities can derive much more business value than applications.
+Open source utilities can derive much more business value than open source applications.
 
 It's a semantic discussion, but for this post I define the difference between the two as the portal through which consumers interact with the software. Utilities are consumed via an API. Applications are consumed via a UI. Rails, react, git, linux, underscore, clojure, node are all software intended to be used programmatically via APIs. Facebook, Twitter, Gmail are all applications which use their UIs to allow users to create, retrieve, update, and delete records.
 
