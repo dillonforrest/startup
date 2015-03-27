@@ -6,9 +6,9 @@ can-subscribe: true
 title: "More output, less input"
 ---
 
-People talk about the 80/20 pareto principle when they talk about being effective. I recently came across <a href="http://taylorpearson.me/8020principle/" target="_blank">this post</a> by Taylor Pearson discussing his 9 80/20 principles for entrepreneurship that he learned writing a book. He frequently references the book "Daily Rituals" to see how other creative workers be effective. Great post, Taylor!
+People talk about the 80/20 pareto principle when they talk about being effective. I recently came across <a href="http://taylorpearson.me/8020principle/" target="_blank">this post</a> by Taylor Pearson discussing his nine 80/20 principles for entrepreneurship that he learned writing a book. He frequently references the book "Daily Rituals" to see how other creative workers be effective. Great post, Taylor!
 
-I'd like to discuss these 9 principles and how I plan to handle each of them right now.
+I'd like to discuss these nine principles and how I plan to handle each of them right now.
 
 # 1. The first draft is hardest, so get it done asap
 
@@ -32,7 +32,7 @@ Taylor:
 
 Most of the other engineer-turned-entrepreneurs I know will go for 3 hour coding sessions 2 or 3 times a day, 5 to 7 days a week. I personally go for 3 a day Monday through Friday, and then I hope for 1 on Saturday and Sunday, but I never mind spending the weekends to recover completely.
 
-I've been programming for long enough to know that you can't code productively if you try to code all day. You need time off. You'll accomplish more in the long run if you have good work/life balance rather than work nonstop.
+I've been programming for long enough to know that you can't code productively if you try to code all day. You need time off. You'll accomplish more in the long run if you have good <a href="https://twitter.com/nickstenning/status/580697408448958464" target="_blank">work/life balance</a> rather than work nonstop.
 
 Come April, I'll shoot for one 3 hour coding session a day. I'm skeptical that programming can only be done productively for 15 hours per week and expect the optimal number of hours to be 30. However, I need to start putting my work in front of potential customers. Frankly, I simply can't justify budgeting much more than 15 hours a week to code when I still have so much to learn about the market.
 
@@ -76,7 +76,7 @@ The gist of this principle is to start with a blank slate on new iterations. Quo
 
 > Starting a new file let me move around sections without any sunk cost nagging at me and not copy over some sections were weak or not relevant, and the book is better for it.
 
-As a programmer, I loved seeing this. The tech industry has a general aversion to rewriting large pieces of software. Project managers vastly prefer refactoring and fixing existing codebases over writing new ones to replace them. I always thought that was stupid. Anecdotally, I know I can write software to derive the same or even more business value much more quickly than fixing existing shitty software.
+As a programmer, I loved seeing this. The tech industry has a general aversion to rewriting large pieces of software. Project managers vastly prefer refactoring and fixing existing codebases over writing new ones to replace them. I always thought that was stupid. Anecdotally, I believe good engineers can write software to derive the same or even more business value much more quickly than fixing existing shitty software written by bad engineers with nebulous business requirements.
 
 # 7. Delegate non-essential tasks to others
 
@@ -120,8 +120,8 @@ The second concept is to find ways to both expand your reach and build relations
 
 # My takeaways
 
-The principles that I'm already following are shipping the first draft asap, having a routine, starting second drafts fresh, delegating non-essential tasks, 
+The principles that I'm already following are shipping the first draft asap, having a routine, starting second drafts fresh, and delegating non-essential tasks.
 
-The principles I'm not following are the 15 hour rule for creative work, walking, and baking in the marketing. Currently I still feel productive coding much more than 15 hours a week, even though I'll be coding less starting April 1 to talk to the market more. I don't really know if I'll start walking, but would expect that I probably won't.
+The principles I'm not following are the 15 hour rule for creative work, walking, and baking in the marketing. Currently I still feel productive coding much more than 15 hours a week, even though I'll be coding less starting April 1 to talk to the market more. I don't really know if I'll start walking. I expect that I won't.
 
-Baking in the marketing? Marketing is the most critical question to answer. Most tech startups these days succeed on good marketing, not good software.
+Baking in the marketing? Marketing is the most critical question to answer. There is no business success without marketing success.
