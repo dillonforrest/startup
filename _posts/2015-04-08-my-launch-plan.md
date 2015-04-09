@@ -25,9 +25,9 @@ In its essense, the slow launch is a process to minimize risk and ensure you're 
 
 # What makes the slow launch work?
 
-The slow launch is much more likely to work if you pick the correct first customer. It's more likely to fail if you pick wrong. Rob says your first customer needs to 1) be okay with you not building eveverything they want, 2) be patient to deal with you being high-touch for a month at least, and 3) have needs similar to the rest of your target audience.
+The slow launch is much more likely to work if you pick the correct first customer. It's more likely to fail if you pick wrong. Rob says your first customer needs to 1) be okay with you not building everything they want, 2) be patient with you being high-touch for a month at least, and 3) have needs similar to the rest of your target audience.
 
-My longtime readers know that I'm interested in enterprise. However, I don't see any enterprise customers being either #1 or #2 for me. Enterprise customers want instant gratification. If I were to slow launch properly, I think I'd have to choose one- or two-person startups as my alpha customers.
+My longtime readers know that I'm interested in enterprise. However, I don't see any enterprise customers being either #1 or #2 for me. Enterprise customers want instant gratification. If I were to slow launch properly, I think I'd have to choose one- or two-person startups as my alpha customers. Rob's examples for alpha users were also very small startups.
 
 If I want to eventually serve enterprise customers, I'll have to move upmarket after establishing some success with small startups.
 
@@ -35,4 +35,4 @@ If I want to eventually serve enterprise customers, I'll have to move upmarket a
 
 So, perhaps my most urgent objective right now is to find people who want to be my alpha customer. This means I have to go back to my most feared part of business: talking to people.
 
-Time to face my fears, again.
+Time to face my fears.
