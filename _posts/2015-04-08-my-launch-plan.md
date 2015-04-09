@@ -17,7 +17,7 @@ Last year at Microconf, Rob Walling <a href="https://vimeo.com/96267945" target=
 1. Pick one customer to be your alpha customer
 1. Do not charge your first customer
 1. Work solely with this first customer as a high-touch consultant, building your product around your first customer's needs
-1. When the customer is using your product and his getting value, start charging your customer
+1. When the customer is using your product and is getting value, start charging your customer
 1. Repeat this process with the rest of your alpha users, onboarding them one by one
 1. After you individually onboarded all your alpha users, start onboarding the rest of your waitlist in small batches
 
