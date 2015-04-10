@@ -8,7 +8,7 @@ title: "Feeling discouraged and bouncing back"
 
 This week, I started feeling discouraged again. I wasn't alone. Some of my other friends working on their startup attempts felt the same. When this happens, we tend to wonder why we deal with the stress and the huge possibility of failure. We doubt ourselves and think about quitting. Our productivity tanks, and the startup attempts don't go forward.
 
-My girlfriend forwarded me an email from Victor Cheng of caseinterview.com. Victor wrote about overcoming failure:
+A friend forwarded me an email from Victor Cheng of caseinterview.com. Victor wrote about overcoming failure:
 
 > When you "fail" at something, most people start an inner dialogue with themselves.
 > 
