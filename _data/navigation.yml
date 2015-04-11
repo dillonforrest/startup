@@ -3,5 +3,8 @@
 - title: Home
   url:
 
+- title: All Posts
+  url: /all-posts/
+
 - title: About
   url: /about/
