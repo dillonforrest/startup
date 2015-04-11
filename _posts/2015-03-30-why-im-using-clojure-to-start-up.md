@@ -37,3 +37,5 @@ Dan's post is super awesome (go read it immediately after finishing my own!), so
 > The problem with "best tool for the job" thinking is that it takes a myopic view of the words "best" and "job." Your job is keeping the company in business, god damn it. And the "best" tool is the one that occupies the "least worst" position for as many of your problems as possible.
 
 My job isn't to keep my company in business. It's to create business for my company. Although I totally respect Etsy and Stripe's decisions for php and ruby respectfully, and although I totally look up to both of those companies for having amazing engineering, I'm just not at the same level and can't make the same decisions. I'm just me. My least worst option is undoubtedly bleeding edge.
+
+(Edit: A few readers pointed out that this post discusses my choice for bleeding edge technology rather than clojure specifically. I corrected this mistake by enumerating clojure's benefits to create business value <a href="http://www.dillonforrest.com/startup/the-benefits-of-clojure-for-starting-up/">here</a>.)
