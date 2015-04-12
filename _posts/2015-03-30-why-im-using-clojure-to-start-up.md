@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Why I'm using clojure to start up"
+tags: best
 ---
 
 I came across this <a href="http://mcfunley.com/choose-boring-technology" target="_blank">awesome post</a> by Dan McKinley. Dan argues that when building software, you should resist the urge to use sexy bleeding-edge tools and instead prefer building with reliable albeit boring technology. Prefer php and mysql over clojure and datomic. The reason is that there are far more unknown unknowns with bleeding edge than there are with boring but reliable. To me, the gist of Dan's post is this:
