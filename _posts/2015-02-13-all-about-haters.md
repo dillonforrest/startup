@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "All about haters"
+tags: best
 ---
 
 One fight that I wasn't ready for was the fight against haters.

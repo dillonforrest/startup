@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Targeting the centripetal demographic"
+tags: best
 ---
 
 Previously, I wrote about why selling to local small businesses is <a href="http://www.dillonforrest.com/startup/i-cant-make-money-from-local-small-businesses/" target="_blank">extremely difficult</a>. I used different words at the time to describe it in that post, but I since began using more descriptive words to describe the two demographics that I discovered back then.

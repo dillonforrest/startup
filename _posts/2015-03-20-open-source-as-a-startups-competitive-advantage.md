@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Open source as a startup's competitive advantage"
+tags: best
 ---
 
 I previously mentioned that open source can be a solo founder's <a href="http://www.dillonforrest.com/startup/the-competitive-advantages-of-a-solo-founder/" target="_blank">advantage</a>. Today I want to further delve into open source for business value.

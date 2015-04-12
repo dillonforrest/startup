@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Preselling to enterprise customers"
+tags: best
 ---
 
 I wrote previously about how you can't just talk to enterprise customers about <a href="http://www.dillonforrest.com/startup/validating-enterprise-business-ideas-the-wrong-way/" target="_blank">their problems</a>. It was my belief that traditional startup wisdom and popular lean startup methodologies encouraging "talking to users about their problems" was not an effective practice if you're targeting SMB or enterprise. Since then, I spoke with several people much more experienced than I am. The general takeaway is that enterprise customers require a real product just for table stakes to talk to them. **No product means no conversation with target enterprise customers**.

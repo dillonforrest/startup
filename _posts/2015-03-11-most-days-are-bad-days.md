@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Most days are bad days"
+tags: best
 ---
 
 I have a few friends currently trying to start up like I am. Most of us keep track of our daily mood in some way. I personally use <a href="https://idonethis.com/home/" target="_blank">iDoneThis</a>. Every day, at the end of my day, I write a sentence to elaborate on my mood and then write down my day's accomplishments. The next day, iDoneThis emails me the previous day's accomplishments as well as my mood. I can log into iDoneThis and see my mood across an entire calendar.

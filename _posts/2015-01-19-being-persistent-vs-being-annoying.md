@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Being persistent vs. being annoying"
+tags: best
 ---
 
 Since the beginning of this month, I've been trying to get more information from development agencies about scoping proposals. It's a problem which I find fascinating, and I really want to understand it better and ultimately solve it. My friend who runs an agency and introduced this problem to me offered to try to share a sample proposal with me, as well as introduce me to some of his friends with the same problem. A sample proposal and introductions to his friend are critical for me to move forward with understanding the problem and being able to offer a solution. So, I've pinged my friend several times to encourage a client to permit to share a proposal with me and also ask his other agency friends if I can talk to them.

@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Can I compete with an existing idea rather than creating a novel one?"
+tags: best
 ---
 
 I'm still trying to land on a product idea to pursue.

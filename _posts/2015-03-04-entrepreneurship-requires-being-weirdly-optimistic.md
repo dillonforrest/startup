@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Entrepreneurship requires being weirdly optimistic"
+tags: best
 ---
 
 As of this writing, I'm the least unhappy with my work than I've been since the early days of my journey. Most of the time, when people ask me how I'm doing, I tell the truth and say, "ehh, not great." I'm surprised I'm currently to this degree of not unhappy. Is "not unhappy" a valid emotion?
