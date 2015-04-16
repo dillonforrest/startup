@@ -6,19 +6,21 @@ can-subscribe: true
 title: "Losing weight while starting up"
 ---
 
-I unfortunately had gained a decent amount of fat at the end of 2014. At the end of January 2015, I started actively working to losing weight. I've always been active and enjoyed working out, so manipulating my body weight is something that I'm comfortable doing. Weight loss in particular is something I consider pretty straightforward, albeit annoying. It's been ten weeks now, and I've lost 15 lbs. I'm hoping to lose another 5-10 lbs before I stop.
+I unfortunately gained a lot of fat by the end of January 2015. At that point, I started actively working to losing weight. I've always enjoyed being active and working out, and I consider myself modestly experienced with manipulating my body weight. Weight loss in particular is something I consider admittedly annoying but pretty straightforward. It's been ten weeks now, and I've lost 15 lbs. I'm hoping to lose another 5-10 lbs before I stop.
 
 Most of us want to lose weight. For those of you who are also trying to start up, I'd like to share with you my fat loss strategy while on my startup journey.
 
+(Disclaimer: I'm not a trainer or nutritionist.)
+
 # Constraints
 
-This post is written for a particular audience. I'm writing for entrepreneurs who are in the middle of their startup attempts like myself. You're short on cash and time. Your schedule isn't very flexible. You're stressed out and have a ton on your mind at all times.
+I wrote this post for a specific audience: entrepreneurs in the middle of their startup attempts like myself. You're short on cash and time. Your schedule isn't very flexible. You're stressed out and have a ton on your mind at all times. I hope this post is helpful for you!
 
 # General strategy
 
 I'll be sticking with only the most effective bang-for-for-buck tactics. You don't have the time or money for anything else. There are possibly millions of permutations of fat loss methods which will work. Not all of them will fit your constraints and your lifestyle. We want the 80/20 strategies.
 
-To lose weight, there's no getting around the fact that you must consume less calories than you expend. So, what follows are the easiest ways to increase your metabolism and decrease the amount of food you want to eat.
+To lose weight, you must consume less calories than you expend. So, what follows are the easiest ways to increase your metabolism and decrease the amount of food you want to eat.
 
 There will be four main areas that I'll attempt to cover both with detail but with brevity: exercise, diet, recovery, and distractions.
 
@@ -30,22 +32,22 @@ I'm not disputing the health benefits of cardio. I'm disputing the effectiveness
 
 #### No trainer
 
-Trainers are good because they give you a workout program and they make you accountable. They're bad because they cost money. Luckily, you can get the good of trainers without the bad. Workout programs are easy to find online for free. Accountability is a bit tougher, but probably more important than the workout program.
+Trainers are good because they over a workout program and create accountability. They're bad because they cost money. Luckily, you can get the good of trainers without the bad. Workout programs are easy to find online for free. I prescribe programs myself below. Accountability is a bit tougher and probably more important than the program.
 
-Personally, I weigh myself every morning, take a picture of my weight showing on the scale, and send it to my girlfriend. She helps keep me accountable by just checking my weight with me every morning. You can do similar with friends and family. I think the easiest way to be accountable is to interact with people, just like how this blog helps me be accountable with my startup efforts.
+Personally, to stay accountable, I weigh myself every morning, take a picture of my weight showing on the scale, and send it to my girlfriend. She helps keep me accountable by just checking my weight with me every morning. You can do similar with friends and family. I think the easiest way to be accountable is to interact with people, just like how this blog helps me be accountable with my startup efforts.
 
 As long as you can find a way to be accountable by yourself, there's little justification paying for a trainer.
 
 #### Choosing a workout program
 
-The most popular beginner strength programs are <a href="http://startingstrength.wikia.com/wiki/Starting_Strength_Wiki" target="_blank">Starting Strength</a>, <a href="http://stronglifts.com/5x5/" target="_blank">Stringlifts</a>, and <a href="https://www.t-nation.com/workouts/531-how-to-build-pure-strength" target="_blank">Jim Wendler's 5/3/1</a>. The reasons why these programs work:
+The most popular beginner strength programs are <a href="http://startingstrength.wikia.com/wiki/Starting_Strength_Wiki" target="_blank">Starting Strength</a>, <a href="http://stronglifts.com/5x5/" target="_blank">Stronglifts</a>, and <a href="https://www.t-nation.com/workouts/531-how-to-build-pure-strength" target="_blank">Jim Wendler's 5/3/1</a>. These programs work because:
 
 - they're easy to follow
 - they prescribe compound exercises, like the squat
 - they're explicit with weight progressions
 - they ask for just 3-4 workouts a week, 1 hour or less per workout
 
-Personally, I'd recommend Starting Strength to any novice who's not already drawn to one particular program. I've used it before with good results. I'd strongly suggest swapping in barbell rows in place of power cleans though. Power cleans are highly technical. Most gyms don't have proper equipment for olympic weightlifting. Barbell rows keep it even simpler without sacrificing results.
+Personally, I'd recommend Starting Strength to any novice who's not already drawn to one particular program. I've used it before with good results. I believe high squatting frequency is very helpful for novice lifters. I'd strongly suggest swapping in barbell rows in place of power cleans though. Power cleans are highly technical. Most gyms don't have proper equipment for olympic weightlifting. Barbell rows keep it even simpler without sacrificing results.
 
 # Diet
 
@@ -55,15 +57,15 @@ Most effective diets are basically the same. No added sugar, no refined carbs, n
 
 #### Cook food you like
 
-Yes, you have to cook. You can't afford to eat out all the time, even at Chipotle. It adds up. The only way to succeed with cooking is to cook food you enjoy and look forward to eating. Beecoming good at cooking is the easiest way to save time and money while losing weight.
+Yes, you have to cook. You can't afford to eat out all the time, even at Chipotle. It adds up. The only way to succeed with cooking is to cook food you enjoy and look forward to eating. Becoming good at cooking is the easiest way to save time and money while losing weight.
 
 #### Effective foods
 
-I know you're trying to start up and you want ramen profitability asap, but please don't actually feed yourself with instant ramen. I don't care how cheap or tasty it is. Don't be a caveman. Treat your body with the respect it deserves.
+I know you're trying to start up and you want ramen profitability asap, but please don't actually feed yourself with instant ramen. I don't care how cheap or tasty it is. Don't be a caveman. Treat your body with the respect it deserves. Do not feed yourself with instant ramen.
 
 My absolute favorite food choices are 80% lean ground beef, spinach, eggs, apples, and brown rice. I also like frozen chicken breasts, broccoli, asparagus, bell peppers, mushrooms, potatoes and sweet potatoes, and green beans. I personally don't eat these, but other good food choices include beans, lentils, quinoa, oatmeal, and all other sorts of lean protein, fruits, and vegetables.
 
-It can be tempting to do paleo or ketogenic. I'll weakly discourage that. The reason is that you'll have to substitute brown rice for a fat, vegetable, or protein. Brown rice is cheaper, more convenient to cook, less perishable, and more versatile than anything else. Yes, in theory, you could totally do paleo or similar, but it's not a meal plan which is nearly as time- or cost-effective as it could be including brown rice. Again, I only discourage it weakly. You do you.
+I weakly discourage paleo and ketogenic diets. The reason is that you'll have to substitute brown rice for a fat, vegetable, or protein. Brown rice is cheaper, more convenient to cook, less perishable, and more versatile than anything else. Yes, in theory, you could totally do paleo or similar and it could be even more awesome for your body, but it's not a meal plan which is nearly as time- or cost-effective as it could be including brown rice. Again, I only discourage it weakly. Do what suits you.
 
 #### Batching
 
@@ -79,9 +81,9 @@ Salt in particular is important. It gets its own paragraph. Salt is the autotune
 
 I'm still learning how to use herbs effectively. I get herbs like rosemary, thyme, basil, sage, and oregano dried and in bottles. Fresh is too much of a pain. I heard that hot oil can help get the flavor of herbs out and onto your food. I'm not experienced enough of a cook to tell yet.
 
-Don't be afraid to use oil. If your food on the stovetop looks dry, don't be afraid to add more oil. Adding that extra pinch of oil won't make you fat. I use olive oil and organic butter. Butter probably isn't technically an oil, but I cook with it frequently. People like cooking with canola oil too. I heard vegetable oil is unhealthy. Coconut oil is something people go crazy over. I'm sure it's great, but I haven't actually cooked with it. The extremely healthy people all swear by coconut oil.
+Don't be afraid to use oil. If your food on the stovetop looks dry, add more oil. That extra pinch of oil won't make you fat. I use olive oil and organic butter. Butter probably isn't technically an oil, but I cook with it frequently. People like cooking with canola oil too. I heard vegetable oil is unhealthy. Coconut oil is something people go crazy over. I'm sure it's great, but I haven't actually cooked with it. The extremely healthy people all swear by coconut oil.
 
-Always have sauces on hand for the times you completely fuck up your food and it tastes awful. I have barbecue sauce and tabasco. Sometimes my honey comes in handy. I mean to find sriracha as well. Vinegars are good too, but I don't use them personally.
+Always have sauces on hand for the times you completely fuck up your food and it tastes awful. I have barbecue sauce and tabasco. Sometimes my honey comes in handy. My kitchen is missing sriracha. Vinegars are good too, but I don't use them personally.
 
 # Recovery
 
@@ -93,7 +95,7 @@ I know you're a stingy entrepreneur, but sleep is one of the few reasons that I'
 
 #### Water
 
-If your urine isn't transparent, you're not adequately hydrated. More water means more help for your body to lose weight. A few years ago, I drank a gallon of water a day to help with fat loss. It was really effective, but I was going to the bathroom every 20 minutes. Right now, I'm trying to work, not spend all day in the bathroom. I'd guess I drink a little over half a gallon of water a day. The moment I feel thirsty, I drink a full glass of water.
+If your urine isn't transparent, you're not adequately hydrated. More water means more help for your body to lose weight. A few years ago, I drank a gallon of water a day to help with fat loss. It was super effective, but I was going to the bathroom every 20 minutes. Right now, I'm trying to work, not spend all day in the bathroom. I'd guess I drink a little over half a gallon of water a day. The moment I feel thirsty, I drink a full glass of water.
 
 #### Stretching
 
@@ -101,17 +103,17 @@ If your lower body is sore, the most bang-for-your-buck stretch is the squat. I 
 
 For your upper body, the most bang-for-your-buck stretch is the hang. I also credit Ido Portal here with his <a href="http://www.idoportal.com/blog/hanging" target="_blank">30 Day Hang Challenge</a>.
 
-For knots, definitely the best way to massage the out is with either a foam roller, tennis ball, or lacrosse ball. They're all cheap and effective.
+If you have knots, massage them out with either a foam roller, tennis ball, or lacrosse ball. They're all cheap and effective.
 
 # Distractions
 
 #### Social situations
 
-It's difficult to eat for fat loss during social situations. I have no effective prescription personally. These days, I just don't socialize at all, but that's mainly due to time or energy rather than weight loss goals.
+It's difficult to eat for fat loss during social situations. I have no effective prescription personally. These days, I just don't socialize at all, but that's mainly due to time or energy rather than weight loss goals. I can't recommend anything other than socializing less and asking people to visit you at your home.
 
 #### Adjustments to ensure consistent progress
 
-You should aim to lose 1-2 lbs per week.
+You should aim to lose 1-2 lbs per week. You must weigh yourself every morning after waking up and using the bathroom.
 
 Your weight loss will not be linear. You'll have good weeks and bad weeks. But overall, if you're losing between 1-2 lbs per week, you should be happy and continue staying the course.
 
@@ -121,7 +123,7 @@ Always analyze the trends in your weight and make small adjustments as needed.
 
 #### Cheat meals
 
-It's generally recommended that you have cheat meals or cheat days. I cheat pretty liberally on weekends. From Friday night until Sunday, I basically eat whatever I want with occasional self-restraint. If I cheat a ton during the weekend, I tend to not lose as much weight during the following week. When I monitor my Sundays, I lose much more weight during the following week. Experiment with a cheating pattern which works best for you.
+It's generally recommended that you indulge in cheat meals or cheat days. I cheat liberally on weekends. From Friday night until Sunday, I basically eat whatever I want with occasional self-restraint. If I cheat a ton during the weekend, I tend to not lose as much weight during the following week. When I monitor my Sundays, I lose much more weight during the following week. Experiment with a cheating pattern which works best for you.
 
 #### Snacks
 
