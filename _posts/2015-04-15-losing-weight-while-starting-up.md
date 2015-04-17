@@ -6,7 +6,7 @@ can-subscribe: true
 title: "Losing weight while starting up"
 ---
 
-I unfortunately gained a lot of fat by the end of January 2015. At that point, I started actively working to losing weight. I've always enjoyed being active and working out, and I consider myself modestly experienced with manipulating my body weight. Weight loss in particular is something I consider admittedly annoying but pretty straightforward. It's been ten weeks now, and I've lost 15 lbs. I'm hoping to lose another 5-10 lbs before I stop.
+I unfortunately gained a lot of fat by the end of January 2015. At that point, I started actively working to lose weight. I've always enjoyed being active and working out, and I consider myself modestly experienced with manipulating my body weight. Weight loss in particular is something I consider admittedly annoying but pretty straightforward. It's been ten weeks now, and I've lost 15 lbs. I'm hoping to lose another 5-10 lbs before I stop.
 
 Most of us want to lose weight. For those of you who are also trying to start up, I'd like to share with you my fat loss strategy while on my startup journey.
 
