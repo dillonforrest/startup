@@ -40,7 +40,7 @@ The reason is <a href="http://www.dillonforrest.com/startup/credibility-the-miss
 
 I always knew I wanted to start a company. However, my original plan was to start up in a few years rather than right now. My sudden change in plans happened because I hated my last job so much. I was working for idiots, and I figured, if they can start and run a company, so can I. I couldn't not try to start up. As my girlfriend put it, I had to do it for my soul.
 
-Months later, when I realized that I should be employed while validating B2B markets and doing customer development, I realized that the biggest error I made was not leaving my last job the very moment I hated my job. Instead, I stayed an <a href="http://www.dillonforrest.com/startup/if-i-could-redo-my-startup-preparation/" target="_blank">extra 5 months</a>, which turned my general dissatisfaction with my employer into a livid disdain for the entire concept of employment.
+Months later, when I realized that I could be employed while validating B2B markets and doing customer development, I learned that the biggest error I made was not leaving my last job the very moment I hated my job. Instead, I stayed an <a href="http://www.dillonforrest.com/startup/if-i-could-redo-my-startup-preparation/" target="_blank">extra 5 months</a>, which turned my general dissatisfaction with my employer into a livid disdain for the entire concept of employment.
 
 If you have startup aspirations, I'd encourage you always leave employment as an option. So much work can be done while employed. Employment can also help further your own startup attempt. If you hate your job, it's probably not employment's fault, just your particular employer's fault. It's not you or employment. It's your boss. Find a new boss.
 
@@ -50,21 +50,21 @@ The <a href="http://www.dillonforrest.com/startup/the-cold-email/" target="_blan
 
 Back in the day, when computers were primitive and feedback cycles were longer, code needed to be more accurate. Longer feedback cycles with older computers means more incentive to make each cycle higher quality. Cold email is the same. The lengthy feedback loop means you need to be proportionately more effective to justify the higher cost of waiting.
 
-#### 7. Not enough knowledge of B2B
+#### 7. Not enough knowledge of how B2B works
 
 I have a whole host of mistakes which eventually taught me that B2B is just really really complicated.
 
-For instance, I learned that not all B2B customers care about making more money. I dichotomize B2B customers by describing them as either <a href="http://www.dillonforrest.com/startup/the-cold-email/" target="_blank">centripetal or centrifugal</a>. The centrifugal customers are the ones which are trying to grow their businesses at all times. The centrifugal customers, the other side of my B2B dichotomy, don't care about making money or having great customer experiences. That's why they've gone for decades with shitty websites.
+For instance, I learned that not all B2B customers care about making more money. I dichotomize B2B customers by describing them as either <a href="http://www.dillonforrest.com/startup/the-cold-email/" target="_blank">centripetal or centrifugal</a>. The centripetal customers are the ones which are trying to grow their businesses at all times. The centrifugal customers don't care about making money or having great customer experiences. That's why they've gone for decades with shitty websites.
 
 Another example is the emphasis on a certain ROI. Some businesses care about minimizing costs, but all businesses care about minimizing risk. They want no uncertainties. They want to know exactly how much your product will cost and how much money or time it makes or saves for them. No nebulous benefits like comfort and luxury. Only a hard-defined ROI. It's the same reason that clients to freelance developers typically prefer a fixed-point bid over time and materials.
 
-Another example is the multiple stakeholders at a B2B customer. Some people say there's an end user concerned with your product's usefulness, an IT stakeholder concerned with technical implications to integrating your solution, and a financial stakeholder challenging your ROI story.
+Another example is the multiple stakeholders at a B2B customer. Some people say there's an end user concerned with your product's usefulness, an IT stakeholder concerned with technical implications to integrating your solution, and a financial stakeholder challenging your ROI story. Only until you satisfy all three of their concerns can you make the sale.
 
 Cold emailing is just one technical skill needed to survive in B2B, which as a whole is more complex than most software that I've seen.
 
 #### 8. No domain expertise
 
-Most B2B success stories are led by characters with inside information, with meaningful domain expertise and connections. Domain expertise means knowledge of the market and credibility. Connections means distribution. All of these are highly valuable and prerequisites to starting up successfully.
+Most B2B success stories are led by characters with meaningful domain expertise and connections. Domain expertise means knowledge of the market and credibility. Connections means distribution. All of these are highly valuable and prerequisites to starting up successfully.
 
 I had no domain expertise when I started. Over time, I built up my own domain expertise, but as of now I'm not sure it's enough. It would have been better if I started on Day 1 already with domain expertise.
 
