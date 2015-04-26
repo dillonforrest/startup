@@ -38,13 +38,13 @@ My friend: "These types of jobs are exactly what I want to do. Yeah, I was excit
 
 That statement was a reality slap. My current journey has been more a market validation journey than a company building journey. Is indefinite market validation my dream? No.
 
-As I learned more and more, I realized I'm underprepared to start a B2B company. I've made <a href="http://www.dillonforrest.com/startup/my-9-biggest-mistakes-thus-far/" target="_blank">plenty of mistakes</a> so far and would love to do things differently. Maybe I should actually do things differently, take a step back, and prepare another approach.
+As I learned more and more, I realized I'm underprepared to start a B2B company. I've made <a href="http://www.dillonforrest.com/startup/my-9-biggest-mistakes-thus-far/" target="_blank">plenty of mistakes</a> so far and would love to do things differently. Maybe I should actually take a step back and prepare another approach.
 
 # My decision
 
 So in sum, I learned that my uphill battle is worse than previously calculated. My miscalculation was such a blunder that I very well could have burned the rest of my runway not accomplishing anything meaningful.
 
-I am deciding to no longer go full-time with my startup attempt. You're always an underdog when you're working on a startup attempt, but I went from feeling like an underdog to feeling like I just can't win as I am right now.
+I am deciding to no longer go full-time with my startup attempt. You're always an underdog when you're trying to start up, but I went from feeling like an underdog with some chance to win to feeling like I have no chance to win at all anymore.
 
 My problem is that I have too many weaknesses inhibiting me from being a successful B2B entrepreneur. Living on a runway before validating a niche is a weakness. Having no domain expertise is a weakness. My decision is to postpone my full-time startup effort and address my weaknesses first.
 
@@ -57,6 +57,8 @@ One is to continue improving as an engineer. It was a huge advantage to me that 
 Another is to get more domain expertise. I need to become an expert. There are two challenges in wanting to become an expert: deciding a field in which to become an expert and gaining knowledge and experience in that field.
 
 Another is to continue searching for and validating market niches. It's unlikely for all the stars to align, but this one is most essential. I don't think you can start validating niche markets too early.
+
+Other than these broad ideas, I don't yet have a plan. Deciding on my specifics will take some time.
 
 # What will happen to this blog?
 
