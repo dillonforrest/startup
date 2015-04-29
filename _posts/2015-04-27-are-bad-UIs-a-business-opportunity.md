@@ -10,7 +10,7 @@ My most recent way to find underserved market gaps was finding existing business
 
 # The GUI
 
-The most common UI is the graphical user interface, or the GUI. Almost 100% of tech companies have a GUI. A GUI can be either a web app, desktop app, or mobile app. They present form fields, widgets, buttons, and text. Oftentimes the GUI's main job is to allow you to create, retrieve, update, and delete records to a database.
+The most common UI is the graphical user interface, or the GUI. Almost 100% of tech companies have a GUI. A GUI can be either a web app, desktop app, or mobile app. They present form fields, widgets, buttons, and text. Oftentimes the GUI's main job is to allow you to create, retrieve, update, and delete records in a database.
 
 Despite the GUI's dominant market share, not everybody has a GUI that customers love. In fact, I'd argue that most GUIs offer poor user experiences. Many of these GUIs are frustrating due to either poor technical implementation or poor design sense. Some companies just can't afford or retain quality engineers and designers. However, in my opinion, some companies simply will never make their users happy with their GUI because a GUI is the incorrect solution for their customers and their domain.
 
