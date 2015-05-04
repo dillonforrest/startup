@@ -16,8 +16,8 @@ I considered chasing after a cost-averse customer segment for my last project. I
 
 Among all companies chasing cost-averse, DigitalOcean is perhaps the very best example that I can think of right now.
 
-The second implication is that cost-averse companies have few vendors from which to choose. The risk-averse are the rich companies. They can partner with more SaaS vendors to grow even more. The rich become richer. If you're a fledgling startup, you're probably cost-averse. The lack of budget-friendly options creates additional downward pressure, making it disproportionately difficult to grow and earn the luxury of risk aversion.
+The second implication is that cost-averse companies have drastically fewer SaaS vendors from which to choose. The risk-averse are the rich companies. They can partner with more SaaS vendors to grow even more and make even more money. The rich become richer. If you're a fledgling startup, you're probably cost-averse. The lack of budget-friendly options creates additional downward pressure, making it disproportionately difficult to grow and earn the luxury of risk aversion.
 
-Having no budget sucks 100% of the time. In my startup attempt, I always wanted to try all these different tools to help me out. However, I was always far too cost-averse to give them my credit card number. So I stayed poor.
+Having no budget sucks 100% of the time. In my startup attempt, I always wanted to try all these different tools to help me out. However, I was always far too cost-averse to give them my credit card number. There are tons of startup tactics which I wanted to try, but I was just too poor to afford any of the tools.
 
 In any type of sales, figuring out whether your customer is risk-averse or cost-averse is a primary objective.
