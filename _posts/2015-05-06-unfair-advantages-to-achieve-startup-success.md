@@ -10,9 +10,9 @@ I cite my lack of "unfair advantages" as the reason why I <a href="http://www.di
 
 # Why unfair advantages are important
 
-Think of an unfair advantage like insider information. Insider information is when you have info that few other people have. The information is not public. Inside information is an unfair advantage that you have over the public. Because of its unfairness, trading public stock based on insider information is illegal.
+Think of an unfair advantage like insider information. Insider information is when you have info that few other people have. The information is not public. Inside information is an unfair advantage that you have over the public. Because of its unfairness, trading public stock based on insider information is illegal in many countries.
 
-Unfortunately, fairness is not relevant when it comes to entrepreneurship. Don't break the law of course, but also seek out your unfair advantages. Explaiting an unfair advantage like insider information might be illegal, but exploiting an unfair advantage to start a company is a best practice.
+When it comes to entrepreneurship, fairness is irrelevant. Don't break the law of course, but also seek out your unfair advantages. Exploiting an unfair advantage like insider information might be illegal for trading, but exploiting an unfair advantage to start a company is a best practice.
 
 The reason you should care about having unfair advantages is that having more and larger unfair advantages increases your chances for startup success.
 
@@ -26,7 +26,7 @@ Domain expertise means you understand a particular market. You know how the cust
 
 #### Network
 
-Entrepreneurship is <a href="http://www.dillonforrest.com/startup/introversion-and-entrepreneurship-dont-mix/" target="_blank">not for introverts</a>. All other considerations equal, the extrovert will outperform the introvert. Knowing people and being able to meet more people are vital. You'll have better distribution.
+Entrepreneurship is <a href="http://www.dillonforrest.com/startup/introversion-and-entrepreneurship-dont-mix/" target="_blank">not for introverts</a>. All other considerations equal, the extrovert will outperform the introvert. Knowing people and being able to meet more people are vital. You'll have better distribution. Have a network and be able to expand it.
 
 #### Credibility
 
