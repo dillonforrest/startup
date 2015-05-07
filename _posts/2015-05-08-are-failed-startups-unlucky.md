@@ -6,7 +6,7 @@ can-subscribe: true
 title: "Are failed startups unlucky?"
 ---
 
-A few months ago, I spoke with an old colleague of mine. Before we worked together, he worked on a few of his own startup attempts with varying degrees of success. One particular thing he said really suck out to me: "To succeed, you also need to be lucky. Nobody really talks about luck's role in a startup."
+A few months ago, I spoke with an old colleague of mine. Before we worked together, he worked on a few of his own startup attempts with varying degrees of success. One particular thing he said really stuck out to me: "To succeed, you also need to be lucky. Nobody really talks about luck's role in a startup."
 
 At first, I immediately agreed. I was struggling and frustrated, and saying I was unlucky was an easy coping mechanism. Many people who had failed startup attempts might consider their lack of luck to be a reason why they failed.
 
