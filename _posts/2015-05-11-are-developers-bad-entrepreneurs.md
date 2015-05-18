@@ -71,7 +71,7 @@ My current goal is to be in a much stronger position for another startup attempt
 - It's something I can become an expert in
 - It can be solved with engineering
 
-I want to be closer to the revenue because that's where enterprise customers are much more likely to spend their money. The second two criteria's purposes are more obvious.
+I want to be closer to the revenue because that's where enterprise customers are much more likely to spend their money. The second and third criteria's purposes are more obvious. The fourth is because I want my engineering background to multiply any future efforts.
 
 So now, I have a new set of challenges. What new problem do I want to become an expert in? How can I move closer to sales & marketing? Can I combine that with my existing engineering ability?
 
