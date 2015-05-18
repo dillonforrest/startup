@@ -58,7 +58,7 @@ Yes, I was still figuring out what I want to do. I went through iDoneThis's enti
 The interview process with Walter and Rodrigo taught me some things about what I want in my next job:
 
 - Although I don't want to do purely engineering anymore, I still want to code
-- I want my code to impact sales and marketing and directly increase revenues by bringing in new customers and reduce churn
+- I want my code to impact sales and marketing and directly increase revenues by bringing in new customers and reducing churn
 - The responsibility is something I'm excited to dedicate a year or two, at minimum, to master
 
 Special thanks to Walter and Rodrigo of iDoneThis. I appreciate your time and your belief in my abilities. And because of the time these two spent reviewing my projects and chatting with me, I think I know what I want to do next now. I want to become a growth engineer.
