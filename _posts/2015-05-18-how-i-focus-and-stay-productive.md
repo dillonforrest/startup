@@ -38,7 +38,7 @@ You want to measure your progress. No progress means no productivity.
 
 The main way I stayed accountable was by talking with my girlfriend. I told her literally everything that ran through my brain. I was a solo founder who wanted to stay solo, but having somebody else to talk to was always helpful for me still.
 
-I also used <a href="https://idonethis.com/" target="_blank">iDoneThis</a> to keep track of my tasks. iDoneThis has a handy feature where they email you to show you your accomplishments from a few weeks or even a few months ago. Oftentimes I felt I wasn't accomplishing much, but my iDoneThis emails would show me how far I'd come in a short amount of time. This is good not just to track my productivity but also to boost my morale.
+I also used <a href="https://idonethis.com/" target="_blank">iDoneThis</a> to keep track of my accomplishments iDoneThis has a handy feature where they email you to show you your accomplishments from a few weeks or even a few months ago. Oftentimes I felt I wasn't accomplishing much, but my iDoneThis emails would show me how far I'd come in a short amount of time. This is good not just to track my productivity but also to boost my morale.
 
 The last way I stayed accountable was with my blog. I have an audience which would be considered tiny and insignificant to most publishers, but to me is substantial and motivating. Enforcing a cadence of three posts per week meant I was always queueing post ideas and analyzing my journey. The constant queueing and analyzing encouraged me to be more and more productive to feed higher quality content into my blog.
 
