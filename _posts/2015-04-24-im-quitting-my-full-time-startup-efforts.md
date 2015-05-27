@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "I'm quitting my full-time startup efforts"
+tags: best
 ---
 
 This is a big announcement for me. I'm quitting my full-time startup efforts, even though I still have at least eight months of runway remaining. I'd like to share with you my reasons and my new plans.

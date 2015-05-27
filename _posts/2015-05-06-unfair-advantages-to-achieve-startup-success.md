@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Unfair advantages to achieve startup success"
+tags: best
 ---
 
 I cite my lack of "unfair advantages" as the reason why I <a href="http://www.dillonforrest.com/startup/im-quitting-my-full-time-startup-efforts/" target="_blank">quit</a> my startup attempt. In this post, I'm sharing why you should care about your own unfair advantages and examples of them.

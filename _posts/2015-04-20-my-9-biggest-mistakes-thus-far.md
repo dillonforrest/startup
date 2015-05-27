@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "My 9 biggest mistakes thus far"
+tags: best
 ---
 
 The past few weeks, I battled bouts of recurring self-doubt and lack of motivation. It comes and goes. It's not fun to wallow, but an unforeseen fortuity to self-doubt is introspection. I made countless mistakes in my startup journey thus far. Here are my 9 biggest mistakes, in the order in which I realized they were mistakes.
@@ -80,18 +81,12 @@ People always say that it's difficult to get yourself to leave your job and take
 
 If I could do it differently, there are a small number of huge points that I'd reconsider:
 
-#### Protect my willingness to be employed
+#### Protect my happiness to be employed
 
-Most people are employed out of necessity, not choice. If you have the courage to take a full plunge to start up, you probably don't consider yourself part of this group. Employment can be a real drag, but it has substantial benefits which could enable your startup attempt. I'd say my aversion to employment sometimes boosted my startup attempt and usually hindered it.
+Most people are employed out of necessity, not choice. If you have the courage to take a full plunge to start up, you probably don't consider yourself part of this group. Employment can occasionally be a real drag, but it has substantial benefits which could enable your startup attempt. I'd say my previous aversion to employment sometimes boosted my startup attempt and usually hindered it.
 
-#### Work on interesting problems while employed
+In the future, if I sense myself feeling dissatisfied with an employer, I'll leave immediately.
 
-Not all employment is equal. Most of it sucks. Get the jobs which are interesting. It's up to you to decide what's interesting, but your natural interests are a good starting point to finding jobs which can help aid your startup attempt.
-
-#### Learn the technical skills required for B2B while employed
-
-This includes cold emailing, customer development, and market validation. All of these can be learned while employed. You'll probably still learn them faster 
-
-#### Validate a market niche while employed
+#### Validate a market niche while earning a salary
 
 B2B market validation can take a long time. Invalidating a market is more likely to happen than validating it, and invalidation can take just as long as validation. You could possibly be looking for a market for years. Save your runway for execution, not searching.

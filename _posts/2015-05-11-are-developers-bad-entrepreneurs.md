@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Are developers bad entrepreneurs?"
+tags: best
 ---
 
 It's crazy how intensely the learn-to-code fire is burning and spreading. Everybody wants to hire developers, and everybody else wants to become a developer. As a developer myself, I figured I had a huge advantage in my first startup effort. Unfortunately, it wasn't enough to preclude any of my <a href="http://www.dillonforrest.com/startup/my-9-biggest-mistakes-thus-far/" target="_blank">biggest mistakes</a> up to now, some which were fatal for my attempt.

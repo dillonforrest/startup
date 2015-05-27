@@ -4,6 +4,7 @@ share: true
 comments: true
 can-subscribe: true
 title: "Integrating back into the workforce after a failed startup attempt"
+tags: best
 ---
 
 Since <a href="http://www.dillonforrest.com/startup/im-quitting-my-full-time-startup-efforts/" target="_blank">quitting</a> my startup attempt a few weeks ago, I've been taking my time to figure out my next steps. This has been extremely difficult for me to piece together. Integrating back into the workforce is tough.
