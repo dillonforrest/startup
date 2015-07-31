@@ -16,7 +16,7 @@ I'm extremely excited about this opportunity for three reasons. First, the team 
 
 Second, the technology. Nylas is building an email platform. This isn't a cliche startup building yet another boring web app. This is one of the most complex applications I've ever seen. The typical web company's CRUD GUI is a vapid low-carb happy meal next to the Nylas GUI. Nylas has more data for a single user than most startups have in their entire database. Nylas is creating next-level technology.
 
-Third, the business opportunity. This is a chance to change email. Email is something that we all use, but it hasn't changed much, and hardly any of us love our email experience. Nylas is an opportunity to create change which everybody can see. It's several steps up from buying ad space.
+Third, the business opportunity. This is a chance to change email. Email is something that we all use, but it hasn't changed much, and hardly any of us love our email experience. Nylas is an opportunity to create change which everybody can see. It's orders of magnitude more compelling to me than anything else I've worked on.
 
 # What happened to being a growth engineer?
 
@@ -28,9 +28,9 @@ Only two companies offered a "growth engineer" role with a job description which
 
 In the end, only two job descriptions were suitable for me, and the rest were off-base. Long story short, I learned that being a growth engineer was a misinformed goal.
 
-# How does a strong team signal itself?
+As I mentioned earlier, the first reason why I'm excited about Nylas was the team. Looking back at all my experiences at previous employers, I realized that the quality of the team is the most important input to be happy with my work. The moment I realized that being a growth engineer was a bad idea, I ditched the growth engineer plans and started focusing on finding a great team to join instead.
 
-As I mentioned earlier, the first reason why I'm excited about Nylas was the team. Looking back at all my experiences at previous employers, I realized that the quality of the team is the most important input to be happy with my work. The moment I realized that being a growth engineer was a bad idea, I started focusing on finding a great team to join.
+# How does a strong team signal itself?
 
 The natural question here is, how does a strong team signal itself? How can you tell a strong team from an average team?
 
@@ -40,11 +40,13 @@ After finishing all my interviews, I felt Nylas was clearly the best option for 
 
 # Do employers like seeing a failed startup attempt on your resume?
 
-I feel that no single employer will see a failed startup as a negative on your resume. I never felt that my failed startup ever hurt me.
+Someone once told me that if you have no kids and debt, then a startup has no risk beyond forgoing your salary at a full-time job. He said you can always just get another job. However, some others might worry that employers don't want to hire failed entrepreneurs. Maybe just getting hired isn't so easy after a startup attempt.
 
-Okay, so did my startup attempt help me?
+After doing all my interviews, I feel that no single employer will see a failed startup as a negative on your resume. I never felt that my failed startup ever hurt me. I wouldn't allow the fear of being unemployable prevent you from taking the plunge and starting up.
 
-I would say that most companies didn't differentiate between my startup attempt and an ordinary job. That was disappointing to me. However, I realized that these companies didn't have work cultures which valued the entrepreneurial spirit. Those were companies I didn't want to work for.
+Okay, so did my startup attempt help me get a job?
+
+I would say that most companies didn't differentiate between my startup attempt and an ordinary job. They weren't very impressed by my startup journey. That was disappointing to me. However, I realized that these companies didn't have work cultures which valued the entrepreneurial spirit. Those were companies I didn't want to work for.
 
 Fortunately, many employers found my startup attempt impressive and thought more highly of me because of it.
 
@@ -52,7 +54,7 @@ Overall, I would say that a startup attempt won't hurt your employability, but i
 
 # Building a business expertise
 
-I previously wrote about wanting to become a growth engineer because I wanted to gain domain expertise in a business function. The one that I chose were technical aspects of marketing which required code.
+I previously wrote about wanting to become a growth engineer because I wanted to gain domain expertise in a business function. The domain that I chose was the technical aspects of marketing which required code.
 
 I'm still very interested in this domain, but I'll look to side projects to grow my expertise. My main time and focus will go towards Nylas. Going forward, I will be aggressive about finding meaningful projects, both inside and outside of work, to address all aspects of self-improvement, not just building a business expertise.
 
